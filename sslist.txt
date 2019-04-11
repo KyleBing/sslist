@@ -9,6 +9,7 @@
 ||googlecommerce.com
 ||googleapis.com
 ||google-analytics.com
+||googletagservices.com
 !== MAP
 ||gstatic.com
 ||googleusercontent.com
@@ -17,6 +18,44 @@
 ||blogger.com
 !==AD
 ||googleadservices.com
+
+!========== CDN ==========
+||cdn.sstatic.net
+
+!========== SOFT ==========
+||duetdisplay.com/
+||rime.im
+
+!========== APPLE ==========
+||itunes.apple.com
+||appleid.apple.com
+
+!========== TOOL ==========
+||ifixit.com
+||noisli
+
+!========== DEVELOPER ==========
+||ruanyifeng.*
+||xdebug.org/
+||github.com
+||githubassets.*
+||vuejs.org
+||yapi.*
+||regexr.com
+||i.stack
+||webpackjs
+||webpack.js
+||gitter.im
+||apachefriends.com
+||gnu.org
+||fontawesome.com
+||stackflow.com
+||stack.imgur.com
+
+!========== XXOO ==========
+||xvideos.com
+||pornhub.com
+||phncdn.com
 
 !========== FACEBOOK ==========
 ||facebook.net
@@ -36,39 +75,6 @@
 ||unsplash.com/
 ||adobe.com
 ||adobemobiledev.demdex.net
-
-!========== SOFT ==========
-||duetdisplay.com/
-||rime.im
-
-!========== APPLE ==========
-||itunes.apple.com
-||appleid.apple.com
-
-!========== TOOL ==========
-||ifixit.com
-||noisli
-
-!========== DEVELOPER ==========
-||ruanyifeng.*
-||xdebug.org/
-||github.com
-||githubassets.*
-||stackflow.com
-||vuejs.org
-||yapi.*
-||regexr.com
-||i.stack
-||webpackjs
-||webpack.js
-||gitter.im
-||apachefriends.com
-||gnu.org
-
-!========== XXOO ==========
-||xvideos.com
-||pornhub.com
-||phncdn.com
 
 !========== OTHERS ==========
 ||inpandora.*
