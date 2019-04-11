@@ -1,58 +1,79 @@
-[SwitchyOmega Conditions]
-@with result
+!========== GOOGLE ==========
+||google.com
+||googletagservices
+||google.co.jp
+||youtube.com
+||googlevideo.com
+||ggpht.com
+||ytimg.com
+||googlecommerce.com
+||googleapis.com
+||google-analytics.com
+!== MAP
+||gstatic.com
+||googleusercontent.com
+||googlesyndication.com
+!==BLOGGER
+||blogger.com
+!==AD
+||googleadservices.com
 
+!========== FACEBOOK ==========
+||facebook.net
+||facebook.com
+||fbcdn.net
 
-; DESIGN
-UW: *500px.com/* +SS
-UW: *unsplash.com/* +SS
-UW: *adobe.com* +SS
-UW: *adobemobiledev.demdex.net* +SS
+!========== TWITTER ==========
+||twitter.com
+||twimg.com
+!==AD
+||ads-twitter.com
+!== RELATE
+||doubleclick.net
 
+!========== DESIGN ==========
+||500px.com/
+||unsplash.com/
+||adobe.com
+||adobemobiledev.demdex.net
 
-;SOFT
-UW: *.duetdisplay.com/* +SS
-UW: *rime.im* +SS
+!========== SOFT ==========
+||duetdisplay.com/
+||rime.im
 
+!========== APPLE ==========
+||itunes.apple.com
+||appleid.apple.com
 
-; APPLE
-UW: *itunes.apple.com* +SS
-UW: *appleid.apple.com* +SS
+!========== TOOL ==========
+||ifixit.com
+||noisli
 
+!========== DEVELOPER ==========
+||ruanyifeng.*
+||xdebug.org/
+||github.com
+||githubassets.*
+||stackflow.com
+||vuejs.org
+||yapi.*
+||regexr.com
+||i.stack
+||webpackjs
+||webpack.js
+||gitter.im
+||apachefriends.com
+||gnu.org
 
-; TOOL
-UW: *ifixit.com* +SS
-UW: *noisli* +SS
+!========== XXOO ==========
+||xvideos.com
+||pornhub.com
+||phncdn.com
 
-
-; DEVELOPER
-UW: *.ruanyifeng.* +SS
-UW: *xdebug.org/* +SS
-UW: *github.com/* +SS
-UW: *.githubassets.* +SS
-UW: *stackflow.com* +SS
-UW: *vuejs.org* +SS
-UW: *yapi.* +SS
-UW: *regexr.com* +SS
-UW: *i.stack* +SS
-UW: *webpackjs* +SS
-UW: *webpack.js* +SS
-UW: *gitter.im* +SS
-UW: *apachefriends.com* +SS
-UW: *.gnu.org* +SS
-
-
-; GOOGLE
-UW: *googletagservices* +SS
-UW: *google* +SS
-
-
-; OTHERS
-UW: *.inpandora.* +SS
-UW: *workona.* +SS
-UW: *producthunt.com* +SS
-UW: *workona.com.* +SS
-UW: *amazon.com* +SS
-UW: *cloudfront.net* +SS
-
-
-* +direct
+!========== OTHERS ==========
+||inpandora.*
+||workona.*
+||producthunt.com
+||workona.com.*
+||amazon.com
+||cloudfront.net
