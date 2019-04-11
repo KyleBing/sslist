@@ -19,8 +19,6 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 如果你在使用该 `list` 的时候出现页面加载超过 `10s` 的情况请告诉我。
 
 
-## 速度比较
-
 **之前速度**
 
 ![before](https://github.com/KyleBing/sslist/blob/master/imgs/before.png)
