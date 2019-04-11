@@ -37,8 +37,6 @@
 !========== DEVELOPER ==========
 ||ruanyifeng.*
 ||xdebug.org/
-||github.com
-||githubassets.*
 ||vuejs.org
 ||yapi.*
 ||regexr.com
@@ -49,13 +47,21 @@
 ||apachefriends.com
 ||gnu.org
 ||fontawesome.com
+!==GITHUB
+||github.com
+||githubassets.*
+||githubusercontent.com
+!==STACKFLOW
 ||stackflow.com
 ||stack.imgur.com
 
 !========== XXOO ==========
 ||xvideos.com
+!==PORNHUB
 ||pornhub.com
 ||phncdn.com
+||contentabc.com
+||trafficjunky.net
 
 !========== FACEBOOK ==========
 ||facebook.net
