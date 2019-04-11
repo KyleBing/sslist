@@ -1,0 +1,58 @@
+[SwitchyOmega Conditions]
+@with result
+
+
+; DESIGN
+UW: *500px.com/* +SS
+UW: *unsplash.com/* +SS
+UW: *adobe.com* +SS
+UW: *adobemobiledev.demdex.net* +SS
+
+
+;SOFT
+UW: *.duetdisplay.com/* +SS
+UW: *rime.im* +SS
+
+
+; APPLE
+UW: *itunes.apple.com* +SS
+UW: *appleid.apple.com* +SS
+
+
+; TOOL
+UW: *ifixit.com* +SS
+UW: *noisli* +SS
+
+
+; DEVELOPER
+UW: *.ruanyifeng.* +SS
+UW: *xdebug.org/* +SS
+UW: *github.com/* +SS
+UW: *.githubassets.* +SS
+UW: *stackflow.com* +SS
+UW: *vuejs.org* +SS
+UW: *yapi.* +SS
+UW: *regexr.com* +SS
+UW: *i.stack* +SS
+UW: *webpackjs* +SS
+UW: *webpack.js* +SS
+UW: *gitter.im* +SS
+UW: *apachefriends.com* +SS
+UW: *.gnu.org* +SS
+
+
+; GOOGLE
+UW: *googletagservices* +SS
+UW: *google* +SS
+
+
+; OTHERS
+UW: *.inpandora.* +SS
+UW: *workona.* +SS
+UW: *producthunt.com* +SS
+UW: *workona.com.* +SS
+UW: *amazon.com* +SS
+UW: *cloudfront.net* +SS
+
+
+* +direct
