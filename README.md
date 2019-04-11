@@ -2,6 +2,13 @@
 看到当前最普遍使用的 `gfwlist` 体积有点大， 在访问网址的时候都要过一遍，肯定在速度和功耗上会有所影响，所以想自己写一个普遍使用的 `list`
 
 
+## 使用地址
+
+```bash
+https://github.com/KyleBing/sslist/raw/master/sslist.txt
+```
+
+
 ## 速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
