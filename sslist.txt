@@ -68,6 +68,16 @@
 ||facebook.com
 ||fbcdn.net
 
+!========== INSTAGRAM ==========
+||instagram.com
+||cdninstagram.com
+
+!========== LINKEDIN ==========
+||linkedin.com
+||adnxs.com
+||lynda.com
+||licdn.com
+
 !========== TWITTER ==========
 ||twitter.com
 ||twimg.com
@@ -75,6 +85,23 @@
 ||ads-twitter.com
 !== RELATE
 ||doubleclick.net
+
+!========== SPOTIFY ==========
+||spotify.com
+||t.co
+||snapchat.com
+||adsrvr.org
+||semasio.ne
+||scdn.co
+||global.ssl.fastly.net
+||hotjar.com
+||myvisualiq.net
+||fastly-insights.com
+
+!========== eBay ==========
+||ebaystatic.com
+||ebay-us.com
+||online-metrix.net
 
 !========== DESIGN ==========
 ||500px.com/
