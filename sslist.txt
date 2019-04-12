@@ -16,6 +16,8 @@
 ||googlesyndication.com
 !==BLOGGER
 ||blogger.com
+!==GMAIL
+||gmail.com
 !==AD
 ||googleadservices.com
 
