@@ -19,9 +19,6 @@
 !==AD
 ||googleadservices.com
 
-!========== CDN ==========
-||cdn.sstatic.net
-
 !========== SOFT ==========
 ||duetdisplay.com/
 ||rime.im
@@ -52,8 +49,9 @@
 ||githubassets.*
 ||githubusercontent.com
 !==STACKFLOW
-||stackflow.com
+||stackoverflow.com
 ||stack.imgur.com
+||cdn.sstatic.net
 
 !========== XXOO ==========
 ||xvideos.com
