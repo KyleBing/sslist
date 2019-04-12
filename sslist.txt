@@ -1,4 +1,4 @@
-!========== GOOGLE ==========
+!!========== GOOGLE ==========
 ||google.com
 ||googletagservices
 ||google.co.jp
@@ -10,32 +10,32 @@
 ||googleapis.com
 ||google-analytics.com
 ||googletagservices.com
-!== MAP
+!/== MAP
 ||gstatic.com
 ||googleusercontent.com
 ||googlesyndication.com
-!==BLOGGER
+!/== BLOGGER
 ||blogger.com
-!==GMAIL
+!/== GMAIL
 ||gmail.com
-!==AD
+!/== AD
 ||googleadservices.com
 
-!========== SOFT ==========
-||duetdisplay.com/
+!!========== SOFT ==========
+||duetdisplay.com
 ||rime.im
 
-!========== APPLE ==========
+!!========== APPLE ==========
 ||itunes.apple.com
 ||appleid.apple.com
 
-!========== TOOL ==========
+!!========== TOOL ==========
 ||ifixit.com
 ||noisli
 
-!========== DEVELOPER ==========
+!!========== DEVELOPER ==========
 ||ruanyifeng.*
-||xdebug.org/
+||xdebug.org
 ||vuejs.org
 ||yapi.*
 ||regexr.com
@@ -46,47 +46,44 @@
 ||apachefriends.com
 ||gnu.org
 ||fontawesome.com
-!==GITHUB
+!/== GITHUB
 ||github.com
 ||githubassets.*
 ||githubusercontent.com
-!==STACKFLOW
+!/== STACKFLOW
 ||stackoverflow.com
 ||stack.imgur.com
 ||cdn.sstatic.net
 
-!========== XXOO ==========
+!!========== XXOO ==========
 ||xvideos.com
-!==PORNHUB
+!/== PORNHUB
 ||pornhub.com
 ||phncdn.com
 ||contentabc.com
 ||trafficjunky.net
 
-!========== FACEBOOK ==========
+!!========== POPULAR ==========
+!/== FACEBOOK
 ||facebook.net
 ||facebook.com
 ||fbcdn.net
-
-!========== INSTAGRAM ==========
+!/== INSTAGRAM
 ||instagram.com
 ||cdninstagram.com
-
-!========== LINKEDIN ==========
+!/== LINKEDIN
 ||linkedin.com
 ||adnxs.com
 ||lynda.com
 ||licdn.com
-
-!========== TWITTER ==========
+!/== TWITTER
 ||twitter.com
 ||twimg.com
-!==AD
+!! ad ##
 ||ads-twitter.com
-!== RELATE
+!relate
 ||doubleclick.net
-
-!========== SPOTIFY ==========
+!/== SPOTIFY
 ||spotify.com
 ||t.co
 ||snapchat.com
@@ -98,21 +95,22 @@
 ||myvisualiq.net
 ||fastly-insights.com
 
-!========== eBay ==========
-||ebaystatic.com
-||ebay-us.com
-||online-metrix.net
-
-!========== DESIGN ==========
-||500px.com/
-||unsplash.com/
+!!========== DESIGN ==========
+||500px.com
+||unsplash.com
 ||adobe.com
 ||adobemobiledev.demdex.net
+||sketch.com
+||sketchapp.com
 
-!========== OTHERS ==========
+!!========== OTHERS ==========
 ||inpandora.*
 ||workona.*
 ||producthunt.com
 ||workona.com.*
 ||amazon.com
 ||cloudfront.net
+!/== EBAY
+||ebaystatic.com
+||ebay-us.com
+||online-metrix.net
