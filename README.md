@@ -58,7 +58,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 
 #### Popular
 
-<a href="http://twitter.com"><img width=15 src="https://abs.twimg.com/favicons/win8-tile-144.png"> Twitter</a> | 
+<a href="http://twitter.com"><img width=15 src="https://abs.twimg.com/favicons/favicon.ico"> Twitter</a> | 
 <a href="http://facebook.com"><img width=15 src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico"> Facebook</a> | 
 <a href="http://spotify.com"><img width=15 src="https://www.scdn.co/i/_global/favicon.png"> Spotify</a> | 
 <a href="http://instagram.com"><img width=15 src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"> Instagram</a> | 
