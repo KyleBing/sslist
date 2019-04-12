@@ -54,6 +54,9 @@
 ||stackoverflow.com
 ||stack.imgur.com
 ||cdn.sstatic.net
+!/== DISQUS
+||disqus.com
+||disquscdn.com
 
 !!========== XXOO ==========
 ||xvideos.com
