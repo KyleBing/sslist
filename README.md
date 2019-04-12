@@ -41,10 +41,22 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 
 ## 已优化速度的网站
 
+#### Google
+
+<a href="http://google.com"><img width=15 src="https://www.google.com/favicon.ico"> Google</a> |
+<a href="http://youtube.com"><img width=15 src="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico"> Youtube</a> |
+<a href="http://mail.google.com"><img width=15 src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"> Gmail</a> |
+<a href="http://google.com/maps"><img width=15 src="https://www.google.com/images/branding/product/ico/maps_32dp.ico"> Google Map</a> |
+<a href="http://drive.google.com/"><img width=15 src="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico"> Google Drive</a> ...
+
+
+#### Develop
 
 <a href="http://github.com"><img width=15 src="https://github.githubassets.com/favicon.ico"> GitHub</a> | 
-<a href="https://stackoverflow.com">StackOverflow</a> | 
-<a href="http://google.com"><img width=15 src="https://www.google.com/favicon.ico"> Google</a> |
+<a href="https://stackoverflow.com">StackOverflow</a>
+
+#### Others
+
 <a href="http://xvideos.com"><img width=15 src="https://static-egc.xvideos-cdn.com/v3/img/skins/default/favicon.png"> Xvideos</a> | 
 <a href="http://pornhub.com"><img width=15 src="https://di.phncdn.com/www-static/favicon.ico"> PornHub</a>
 
