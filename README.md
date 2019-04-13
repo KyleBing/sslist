@@ -14,6 +14,19 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ```
 
 
+## 在 SwitchyOmega插件中直接恢复
+
+> 默认本地的代理路径是： `127.0.0.1:1080`
+
+填入该路径，点恢复
+
+```
+https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
+```
+
+![恢复插件配置]()
+
+
 ## 速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
