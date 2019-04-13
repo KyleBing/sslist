@@ -59,6 +59,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 
 #### Popular
 
+<a href="https://www.wikipedia.org/"><img width=15 src="https://www.wikipedia.org/static/favicon/wikipedia.ico"> Wikipedia</a> | 
 <a href="http://twitter.com"><img width=15 src="https://abs.twimg.com/favicons/favicon.ico"> Twitter</a> | 
 <a href="http://facebook.com"><img width=15 src="https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico"> Facebook</a> | 
 <a href="http://spotify.com"><img width=15 src="https://www.scdn.co/i/_global/favicon.png"> Spotify</a> | 
@@ -69,7 +70,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 
 ### Design
 
-<a href="http://ebay.com"><img width=15 src="https://www.sketch.com/images/components/icons/favicon@2x.png"> Sketch</a> | 
+<a href="http://sketch.com"><img width=15 src="https://www.sketch.com/images/components/icons/favicon@2x.png"> Sketch</a> | 
 
 
 #### Others

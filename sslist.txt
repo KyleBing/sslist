@@ -67,6 +67,8 @@
 ||trafficjunky.net
 
 !!========== POPULAR ==========
+!/== WIKI
+||wikipedia.org
 !/== FACEBOOK
 ||facebook.net
 ||facebook.com
