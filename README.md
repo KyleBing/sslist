@@ -78,8 +78,8 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 #### News
 
 <a href="https://www.abcnews.com"><img width=15 src="https://s.abcnews.com/assets/images/apple-touch-icons/touch-icon-iphone.png"> ABC News</a> | 
-<a href="https://www.washingtonpost.com/"><img width=15 src="https://www.washingtonpost.com/pb/resources/img/washingtonpost_black_32.png"> Washington Post</a> | 
-<a href="https://www.nbcnews.com/"><img width=15 src="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml"> NBC News</a> | 
+<a href="https://www.washingtonpost.com/"> Washington Post</a> | 
+<a href="https://www.nbcnews.com/"><img width=15 src="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/ms-icon-144x144.png"> NBC News</a> | 
 <a href="https://www.nytimes.com/"><img width=15 src="https://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"> NewyorkTimes</a> | 
 <a href="https://www.yahoo.com/"><img width=15 src="https://s.yimg.com/os/mit/media/p/common/images/favicon_new-7483e38.svg"> Yahoo</a> | 
 <a href="https://www.bbc.com/"><img width=15 src="https://static.bbci.co.uk/wwhp/1.137.0/responsive/img/apple-touch/apple-touch-180.jpg"> BBC</a> | 
