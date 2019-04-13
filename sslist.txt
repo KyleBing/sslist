@@ -33,6 +33,10 @@
 ||ifixit.com
 ||noisli
 
+!!========== HOSTSERVER ==========
+||bandwagonhost.com
+||statuscake.com
+
 !!========== DEVELOPER ==========
 ||ruanyifeng.*
 ||xdebug.org
