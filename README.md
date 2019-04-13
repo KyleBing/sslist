@@ -75,10 +75,22 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 <a href="http://sketch.com"><img width=15 src="https://www.sketch.com/images/components/icons/favicon@2x.png"> Sketch</a> | 
 
 
+#### News
+
+<a href="https://www.abcnews.com"><img width=15 src="https://s.abcnews.com/assets/images/apple-touch-icons/touch-icon-iphone.png"> ABC News</a> | 
+<a href="https://www.washingtonpost.com/"><img width=15 src="https://www.washingtonpost.com/pb/resources/img/washingtonpost_black_32.png"> Washington Post</a> | 
+<a href="https://www.nbcnews.com/"><img width=15 src="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml"> NBC News</a> | 
+<a href="https://www.nytimes.com/"><img width=15 src="https://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"> NewyorkTimes</a> | 
+<a href="https://www.yahoo.com/"><img width=15 src="https://s.yimg.com/os/mit/media/p/common/images/favicon_new-7483e38.svg"> Yahoo</a> | 
+<a href="https://www.bbc.com/"><img width=15 src="https://static.bbci.co.uk/wwhp/1.137.0/responsive/img/apple-touch/apple-touch-180.jpg"> BBC</a> | 
+<a href="https://www.tbs.com/"><img width=15 src="https://static1.squarespace.com/static/5aeb5b62620b85880e854fd0/t/5afdd6f6562fa791e8dd5b9c/favicon.ico"> TBS</a> | 
+<a href="https://www.npr.org/"><img width=15 src="https://media.npr.org/templates/favicon/favicon-32x32.png"> NPR</a> | 
+<a href="https://www.teamcoco.com/"><img width=15 src="https://static.teamcococdn.com/www/3/favicon.ico"> Team COCO</a> | 
+
+
 #### Others
 
 <a href="http://xvideos.com"><img width=15 src="https://static-egc.xvideos-cdn.com/v3/img/skins/default/favicon.png"> Xvideos</a> | 
 <a href="http://pornhub.com"><img width=15 src="https://di.phncdn.com/www-static/favicon.ico"> PornHub</a> | 
-<a href="https://www.npr.org/"><img width=15 src="https://media.npr.org/templates/favicon/favicon-32x32.png"> NPR</a> | 
 
 

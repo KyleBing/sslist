@@ -112,6 +112,69 @@
 ||sketch.com
 ||sketchapp.com
 
+!!========== NEWS ==========
+||npr.org
+!/== BBC
+||bbc.com
+||atwola.com
+||bbc.co.uk
+||bbci.co.uk
+||crwdcntrl.net
+||skimresources.com
+!/== Yahho
+||yahoo.com
+||mathtag.com
+||adtechus.com
+||yimg.com
+!/== NewyorkTime
+||nytimes.com
+||nyt.com
+!/== NBC news
+||nbcnews.com
+||mobileadtrading.com
+||zemanta.com
+||moatads.com
+||fwmrm.net
+||taboola.com
+||s-nbcnews.com
+||parsely.com
+||perfectmarket.com
+||quantserve.com
+!/== WASHINGDON POST
+||washingtonpost.com
+||krxd.net
+||netmng.com
+||experianmarketingservices.digital
+||pubmatic.com
+||eyeota.net
+||turn.com
+||casalemedia.com
+||amgdgt.com
+||cloudfront.net
+||sharethis.com
+!/== ABC NEWS
+||abcnews.go.com
+||abcnews.com
+||uplynk.com
+||newrelic.com
+||optimizely.com
+||imrworldwide.com
+||vilynx.com
+!/== TBS
+||tbs.com
+||squarespace.com
+||typekit.net
+
+!/== TEAM COCO
+||teamcoco.com
+||teamcococdn.com
+||trustarc.com
+||art19.com
+||amazonaws.com
+||ywxi.net
+||azureedge.net
+||shopify.com
+
 !!========== OTHERS ==========
 ||inpandora.*
 ||workona.*
@@ -123,5 +186,3 @@
 ||ebaystatic.com
 ||ebay-us.com
 ||online-metrix.net
-!/===
-||npr.org
