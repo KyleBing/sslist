@@ -24,7 +24,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 ```
 
-![恢复插件配置]()
+![恢复插件配置](https://github.com/KyleBing/sslist/blob/master/imgs/restoreOption.png?raw=true)
 
 
 ## 速度优化
