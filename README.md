@@ -78,6 +78,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 #### Others
 
 <a href="http://xvideos.com"><img width=15 src="https://static-egc.xvideos-cdn.com/v3/img/skins/default/favicon.png"> Xvideos</a> | 
-<a href="http://pornhub.com"><img width=15 src="https://di.phncdn.com/www-static/favicon.ico"> PornHub</a>
+<a href="http://pornhub.com"><img width=15 src="https://di.phncdn.com/www-static/favicon.ico"> PornHub</a> | 
+<a href="https://www.npr.org/"><img width=15 src="https://media.npr.org/templates/favicon/favicon-32x32.png"> NPR</a> | 
 
 
