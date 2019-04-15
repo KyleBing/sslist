@@ -17,6 +17,47 @@
 ```
 
 
+## 速度优化
+
+另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
+如果你在使用该 `list` 的时候出现页面加载超过 `10s` 的情况请告诉我。
+
+
+**之前速度**
+
+![before](https://github.com/KyleBing/sslist/blob/master/imgs/before.png)
+
+
+**之后速度**
+
+![after](https://github.com/KyleBing/sslist/blob/master/imgs/after.png)
+
+
+---
+
+# 使用
+
+### 使用 txt 地址
+
+```bash
+https://github.com/KyleBing/sslist/raw/master/sslist.txt
+```
+
+
+### 在 SwitchyOmega插件中直接恢复
+
+> 默认本地的代理路径是： `127.0.0.1:1080`
+
+填入该路径，点恢复
+
+```
+https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
+```
+
+![恢复插件配置](https://github.com/KyleBing/sslist/blob/master/imgs/restoreOption.png?raw=true)
+
+
+
 ## 已优化速度的网站
 
 #### Google
@@ -69,45 +110,3 @@
 
 <a href="http://xvideos.com"><img width=15 src="https://static-egc.xvideos-cdn.com/v3/img/skins/default/favicon.png"> Xvideos</a> | 
 <a href="http://pornhub.com"><img width=15 src="https://di.phncdn.com/www-static/favicon.ico"> PornHub</a> | 
-
-
-
-
-## 速度优化
-
-另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
-如果你在使用该 `list` 的时候出现页面加载超过 `10s` 的情况请告诉我。
-
-
-**之前速度**
-
-![before](https://github.com/KyleBing/sslist/blob/master/imgs/before.png)
-
-
-**之后速度**
-
-![after](https://github.com/KyleBing/sslist/blob/master/imgs/after.png)
-
-
----
-
-
-# 使用
-
-```bash
-https://github.com/KyleBing/sslist/raw/master/sslist.txt
-```
-
-
-## 在 SwitchyOmega插件中直接恢复
-
-> 默认本地的代理路径是： `127.0.0.1:1080`
-
-填入该路径，点恢复
-
-```
-https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
-```
-
-![恢复插件配置](https://github.com/KyleBing/sslist/blob/master/imgs/restoreOption.png?raw=true)
-
