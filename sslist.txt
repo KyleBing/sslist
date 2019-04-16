@@ -35,6 +35,7 @@
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
+||comodo.com
 ||statuscake.com
 
 !!========== DEVELOPER ==========
@@ -61,6 +62,9 @@
 !/== DISQUS
 ||disqus.com
 ||disquscdn.com
+!/== DROP BOX
+||dropbox.com
+||dropboxstatic.com
 
 !!========== XXOO ==========
 ||xvideos.com
