@@ -75,6 +75,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://stackoverflow.com"><img width=15 src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"> StackOverflow</a> | 
 <a href="http://disqus.com"><img width=15 src="https://c.disquscdn.com/next/current/marketing/assets/img/brand/favicon-32x32.png"> Disqus</a> | 
 <a href="https://www.dropbox.com/"><img width=15 src="https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico"> DropBox</a> | 
+<a href="https://openuserjs.org/"><img width=15 src="https://openuserjs.org/images/favicon.ico"> OpenUserJS</a> | 
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 

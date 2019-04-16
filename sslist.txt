@@ -65,6 +65,8 @@
 !/== DROP BOX
 ||dropbox.com
 ||dropboxstatic.com
+!/== TAMPER MONKEY
+||openuserjs.org
 
 !!========== XXOO ==========
 ||xvideos.com
