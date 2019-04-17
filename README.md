@@ -94,6 +94,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 <a href="https://telegram.org/"><img width=15 src="https://telegram.org/favicon.ico?3"> Telegram</a> | 
 <a href="https://whatsapp.com/"><img width=15 src="https://static.whatsapp.net/rsrc.php/v3/yP/r/rYZqPCBaG70.png"> Whatsapp</a> | 
+<a href="https://www.skype.com/"><img width=15 src="https://secure.skypeassets.com/apollo/2.1.1087/images/icons/favicon.ico"> Skype</a> | 
 
 
 #### Design

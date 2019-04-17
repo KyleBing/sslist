@@ -116,6 +116,9 @@
 ||whatsapp.net
 !/== TELEGRAM
 ||telegram.org
+!/== Skype
+||skype.com
+||browser.pipe.aria.microsoft.com
 
 !!========== DESIGN ==========
 ||500px.com
