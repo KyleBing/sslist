@@ -109,6 +109,8 @@
 ||hotjar.com
 ||myvisualiq.net
 ||fastly-insights.com
+!/== TELEGRAM
+||telegram.org
 
 !!========== DESIGN ==========
 ||500px.com

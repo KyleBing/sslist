@@ -88,6 +88,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="http://instagram.com"><img width=15 src="https://www.instagram.com/static/images/ico/favicon.ico/36b3ee2d91ed.ico"> Instagram</a> | 
 <a href="http://linkedin.com"><img width=15 src="https://static.licdn.com/sc/h/1bt1uwq5akv756knzdj4l6cdc"> LinkedIn</a> | 
 <a href="http://ebay.com"><img width=15 src="https://pages.ebay.com/favicon.ico"> eBay</a> | 
+<a href="https://telegram.org/"><img width=15 src="https://telegram.org/favicon.ico?3"> Telegram</a> | 
 
 
 #### Design
