@@ -109,6 +109,11 @@
 ||hotjar.com
 ||myvisualiq.net
 ||fastly-insights.com
+
+!!========== IM ==========
+!/== What's app
+||whatsapp.com
+||whatsapp.net
 !/== TELEGRAM
 ||telegram.org
 
