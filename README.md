@@ -28,7 +28,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ## 速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
-如果你在使用该 `list` 的时候出现页面加载超过 `5s` 的情况请告诉我。
+如果你在使用该 `list` 的时候出现页面加载超过 `5s` 的情况，欢迎 <a href="mailto:kylebing@163.com"> Email 我 </a>
 
 
 **之前速度**
