@@ -7,6 +7,14 @@
 本 `list` 主要倾向于优化网络技术方面的信息获取，优化我们猿类的上网体验。
 
 
+## 主文件地址
+
+```bash
+https://github.com/KyleBing/sslist/raw/master/sslist.txt
+```
+
+
+
 ## 目录
 
 ```bash
@@ -36,12 +44,6 @@
 ---
 
 # 使用
-
-### 使用 txt 地址
-
-```bash
-https://github.com/KyleBing/sslist/raw/master/sslist.txt
-```
 
 
 ### 在 SwitchyOmega插件中直接恢复
