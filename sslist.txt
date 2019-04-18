@@ -67,6 +67,9 @@
 ||dropboxstatic.com
 !/== TAMPER MONKEY
 ||openuserjs.org
+!/== Mozilla.org
+||developer.mozilla.org
+||secure.gravatar.com
 
 !!========== XXOO ==========
 ||xvideos.com
