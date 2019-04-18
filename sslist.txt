@@ -59,6 +59,9 @@
 ||stackoverflow.com
 ||stack.imgur.com
 ||cdn.sstatic.net
+||stackexchange.com
+||scorecardresearch.com
+||quantcount.com
 !/== DISQUS
 ||disqus.com
 ||disquscdn.com
