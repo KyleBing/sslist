@@ -24,6 +24,7 @@
 !!========== SOFT ==========
 ||duetdisplay.com
 ||rime.im
+||inpandora.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
@@ -198,7 +199,6 @@
 ||shopify.com
 
 !!========== OTHERS ==========
-||inpandora.*
 ||workona.*
 ||producthunt.com
 ||workona.com.*
