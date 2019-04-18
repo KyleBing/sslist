@@ -53,7 +53,7 @@
 ||fontawesome.com
 !/== GITHUB
 ||github.com
-||githubassets.*
+||githubassets.com
 ||githubusercontent.com
 !/== STACKFLOW
 ||stackoverflow.com
