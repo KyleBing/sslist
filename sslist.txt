@@ -10,6 +10,7 @@
 ||googleapis.com
 ||google-analytics.com
 ||googletagservices.com
+||appspot.com
 !/== MAP
 ||gstatic.com
 ||googleusercontent.com
@@ -24,7 +25,6 @@
 !!========== SOFT ==========
 ||duetdisplay.com
 ||rime.im
-||inpandora.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
@@ -199,7 +199,8 @@
 ||shopify.com
 
 !!========== OTHERS ==========
-||workona.*
+||inpandora.com
+||workona.com
 ||producthunt.com
 ||workona.com.*
 ||amazon.com

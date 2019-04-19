@@ -108,6 +108,9 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Software
 
 <a href="https://www.inpandora.com/"><img width=15 src="https://www.inpandora.com/wp-content/themes/pdr-pro/images/favicon.ico"> 潘多拉盒子</a> | 
+<a href="https://www.duetdisplay.com/"><img width=15 src="https://www.duetdisplay.com//favicon.png"> Duet</a> | 
+<a href="https://rime.im/"><img width=15 src="https://rime.im/favicon.png"> Rime输入法</a> | 
+<a href="https://workona.com/"><img width=15 src="https://workona.com/assets/meta/favicon.ico"> Workona</a> | 
 
 
 #### News
