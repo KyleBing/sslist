@@ -18,9 +18,9 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ## 目录
 
 ```bash
-├── LICENSE
+├── LICENSE             # 许可证
 ├── OmegaOptions.bak    # SwitchyOmega插件 恢复备份文档
-├── README.md
+├── README.md           # 说明文档
 └── sslist.txt          # 规则主文件
 ```
 
