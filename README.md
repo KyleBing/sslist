@@ -113,6 +113,12 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://workona.com/"><img width=15 src="https://workona.com/assets/meta/favicon.ico"> Workona</a> | 
 
 
+#### Utility
+
+<a href="https://www.ifixit.com/"><img width=15 src="https://d1ulmmr4d4i8j4.cloudfront.net/static/icons/ifixit/favicon-32x32.png"> iFixit</a> | 
+<a href="https://www.noisli.com/"><img width=15 src="https://www.noisli.com/assets/favicon.ico"> Noisli</a> | 
+
+
 #### News
 
 <a href="https://www.abcnews.com"><img width=15 src="https://s.abcnews.com/assets/images/apple-touch-icons/touch-icon-iphone.png"> ABC News</a> | 

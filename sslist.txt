@@ -30,9 +30,11 @@
 ||itunes.apple.com
 ||appleid.apple.com
 
-!!========== TOOL ==========
+!!========== UTILITY ==========
 ||ifixit.com
-||noisli
+!/==Noisli
+||noisli.com
+||mxpnl.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
