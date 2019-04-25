@@ -87,6 +87,7 @@
 ||dropboxstatic.com
 !/== TAMPER MONKEY
 ||openuserjs.org
+||tampermonkey.net
 !/== Mozilla.org
 ||developer.mozilla.org
 ||secure.gravatar.com
