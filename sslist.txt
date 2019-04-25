@@ -29,6 +29,8 @@
 !!========== APPLE ==========
 ||itunes.apple.com
 ||appleid.apple.com
+||communities.apple.com
+||discussions.apple.com
 
 !!========== UTILITY ==========
 ||ifixit.com
