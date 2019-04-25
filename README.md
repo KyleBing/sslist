@@ -95,7 +95,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 #### Forums
 
-<a href="https://www.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
+<a href="https://forums.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
 
 
 #### IM
