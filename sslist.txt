@@ -132,6 +132,10 @@
 ||hotjar.com
 ||myvisualiq.net
 ||fastly-insights.com
+!/==Grammly
+||grammarly.com
+||reddit.com
+||redditstatic.com
 
 !!========== IM ==========
 !/== What's app
