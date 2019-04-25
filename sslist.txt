@@ -136,6 +136,8 @@
 ||grammarly.com
 ||reddit.com
 ||redditstatic.com
+||grammarly.io
+||quora.com
 
 !!========== IM ==========
 !/== What's app
