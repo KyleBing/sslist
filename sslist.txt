@@ -43,6 +43,18 @@
 ||comodo.com
 ||statuscake.com
 
+!!========== FORUMS ==========
+!/==MacRumors
+||macrumors.com
+||sharethrough.com
+||nsstatic.net
+||yumenetworks.com
+||mgr.consensu.org
+||scorecardresearch.com
+||amazon-adsystem.com
+||ytimg.com
+||switchadhub.com
+
 !!========== DEVELOPER ==========
 ||ruanyifeng.*
 ||xdebug.org

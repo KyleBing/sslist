@@ -93,6 +93,11 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="http://ebay.com"><img width=15 src="https://pages.ebay.com/favicon.ico"> eBay</a> | 
 
 
+#### Forums
+
+<a href="https://www.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
+
+
 #### IM
 
 <a href="https://telegram.org/"><img width=15 src="https://telegram.org/favicon.ico?3"> Telegram</a> | 
