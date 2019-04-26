@@ -54,6 +54,10 @@
 ||amazon-adsystem.com
 ||ytimg.com
 ||switchadhub.com
+!/==WordPress
+||wordpress.com
+||wordpress.org
+||pinimg.com
 
 !!========== DEVELOPER ==========
 ||ruanyifeng.*

@@ -98,6 +98,8 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Forums
 
 <a href="https://forums.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
+<a href="https://wordpress.com/"><img width=15 src="https://wordpress.com//s1.wp.com/i/favicons/favicon-64x64.png"> Wordpress.com</a> | 
+<a href="https://wordpress.org/"><img width=15 src="https://wordpress.org//s.w.org/favicon.ico?2"> Wordpress.org</a> | 
 
 
 #### IM
