@@ -95,6 +95,10 @@
 !/== Mozilla.org
 ||developer.mozilla.org
 ||secure.gravatar.com
+!/==CodeSandbox
+||codesandbox.io
+||codefund.app
+||stripe.com
 
 !!========== XXOO ==========
 ||xvideos.com
