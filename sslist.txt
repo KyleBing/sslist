@@ -28,6 +28,8 @@
 !/==Termius
 ||termius.com
 ||webflow.com
+||gitbook.com
+||firebaseio.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
