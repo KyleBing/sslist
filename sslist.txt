@@ -106,6 +106,9 @@
 ||stripe.com
 !/==Vue
 ||vimeo.com
+!/===JSfiddle
+||fiddle.jshell.net
+||jsfiddle.net
 
 !!========== XXOO ==========
 ||xvideos.com
