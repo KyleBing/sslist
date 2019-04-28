@@ -81,6 +81,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://tampermonkey.net/"><img width=15 src="https://tampermonkey.net/favicon.ico"> TamperMonkey</a> | 
 <a href="https://openuserjs.org/"><img width=15 src="https://openuserjs.org/images/favicon.ico"> OpenUserJS</a> | 
 <a href="https://codesandbox.io/"><img width=15 src="https://codesandbox.io/favicon.ico"> CodeSandbox</a> | 
+<a href="https://vuejs.org/"><img width=15 src="https://vuejs.org/images/icons/favicon-32x32.png"> Vuejs</a> | 
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 

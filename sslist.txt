@@ -104,6 +104,8 @@
 ||codesandbox.io
 ||codefund.app
 ||stripe.com
+!/==Vue
+||vimeo.com
 
 !!========== XXOO ==========
 ||xvideos.com
