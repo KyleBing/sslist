@@ -121,6 +121,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.duetdisplay.com/"><img width=15 src="https://www.duetdisplay.com//favicon.png"> Duet</a> | 
 <a href="https://rime.im/"><img width=15 src="https://rime.im/favicon.png"> Rime输入法</a> | 
 <a href="https://workona.com/"><img width=15 src="https://workona.com/assets/meta/favicon.ico"> Workona</a> | 
+<a href="https://www.termius.com/"><img width=15 src="https://uploads-ssl.webflow.com/5c7036349b5477bf13f828cf/5c7036349b547797daf829f8_termius-favicon.png"> Termius</a> | 
 
 
 #### Utility

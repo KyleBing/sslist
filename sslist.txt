@@ -25,6 +25,9 @@
 !!========== SOFT ==========
 ||duetdisplay.com
 ||rime.im
+!/==Termius
+||termius.com
+||webflow.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
