@@ -157,6 +157,9 @@
 ||redditstatic.com
 ||grammarly.io
 ||quora.com
+!/== Netflix
+||netflix.com
+||nflxext.com
 
 !!========== IM ==========
 !/== What's app
