@@ -136,6 +136,7 @@
 !/== TWITTER
 ||twitter.com
 ||twimg.com
+||t.co
 !! ad ##
 ||ads-twitter.com
 !relate
@@ -170,6 +171,8 @@
 !/== Skype
 ||skype.com
 ||browser.pipe.aria.microsoft.com
+!/==Whatsapp
+||whatsapp.com
 
 !!========== DESIGN ==========
 ||500px.com
