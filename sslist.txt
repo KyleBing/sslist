@@ -30,6 +30,9 @@
 ||webflow.com
 ||gitbook.com
 ||firebaseio.com
+!/==MindNode
+||mindnode.com
+||analytics.ideasoncanvas.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
