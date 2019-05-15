@@ -3,6 +3,7 @@
 ||googletagservices
 ||google.co.jp
 ||youtube.com
+||youtu.be
 ||googlevideo.com
 ||ggpht.com
 ||ytimg.com
