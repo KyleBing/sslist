@@ -97,6 +97,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="http://ebay.com"><img width=15 src="https://pages.ebay.com/favicon.ico"> eBay</a> | 
 <a href="https://www.grammarly.com/"><img width=15 src="https://static.grammarly.com/assets/files/efe57d016d9efff36da7884c193b646b/favicon-32x32.png"> Grammarly</a> | 
 <a href="https://www.netflix.com/"><img width=15 src="https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico"> Netflix</a> | 
+<a href="https://www.reddit.com/"><img width=15 src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png"> Reddit</a> | 
 
 
 #### Forums
