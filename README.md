@@ -68,7 +68,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="http://youtube.com"><img width=15 src="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico"> Youtube</a> |
 <a href="http://mail.google.com"><img width=15 src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"> Gmail</a> |
 <a href="http://google.com/maps"><img width=15 src="https://www.google.com/images/branding/product/ico/maps_32dp.ico"> Google Map</a> |
-<a href="http://drive.google.com/"><img width=15 src="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico"> Google Drive</a> ...
+<a href="http://drive.google.com/"><img width=15 src="https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico"> Google Drive</a> |
 <a href="http://https://www.calendar.com/"><img width=15 src="https://www.calendar.com/favicons/apple-touch-icon.png"> Google Calendar</a> ...
 
 
