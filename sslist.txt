@@ -22,6 +22,9 @@
 ||gmail.com
 !/== AD
 ||googleadservices.com
+!/==Calendar
+||calendar.com
+||static.zdassets.com
 
 !!========== SOFT ==========
 ||duetdisplay.com
@@ -113,6 +116,10 @@
 !/===JSfiddle
 ||fiddle.jshell.net
 ||jsfiddle.net
+!/== SVG.js
+||cdn.rawgit.com
+||jsfiddle.net
+||github.io
 
 !!========== XXOO ==========
 ||xvideos.com
