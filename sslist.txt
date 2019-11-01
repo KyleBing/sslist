@@ -273,3 +273,9 @@
 ||ebaystatic.com
 ||ebay-us.com
 ||online-metrix.net
+
+!!========== GAMES ==========
+!/== EA
+||ea.com
+||soundcloud.com
+||typekit.net
