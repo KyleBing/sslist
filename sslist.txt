@@ -120,6 +120,8 @@
 ||cdn.rawgit.com
 ||jsfiddle.net
 ||github.io
+!/== IDEA
+||jetbrains.com
 
 !!========== XXOO ==========
 ||xvideos.com
@@ -184,6 +186,7 @@
 ||whatsapp.net
 !/== TELEGRAM
 ||telegram.org
+||telegram.me
 !/== Skype
 ||skype.com
 ||browser.pipe.aria.microsoft.com
