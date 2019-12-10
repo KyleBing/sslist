@@ -122,6 +122,10 @@
 ||github.io
 !/== IDEA
 ||jetbrains.com
+!/== DISCORD
+||discordapp.com
+||discordapp.net
+
 
 !!========== XXOO ==========
 ||xvideos.com
