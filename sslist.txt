@@ -2,6 +2,7 @@
 ||google.com
 ||about.google
 ||googletagservices
+||stats.g.doubleclick.net
 ||google.co.jp
 ||youtube.com
 ||youtu.be
