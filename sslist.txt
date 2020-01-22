@@ -1,5 +1,6 @@
 !!========== GOOGLE ==========
 ||google.com
+||about.google
 ||googletagservices
 ||google.co.jp
 ||youtube.com
