@@ -141,6 +141,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 <a href="https://www.ifixit.com/"><img width=15 src="https://d1ulmmr4d4i8j4.cloudfront.net/static/icons/ifixit/favicon-32x32.png"> iFixit</a> | 
 <a href="https://www.noisli.com/"><img width=15 src="https://www.noisli.com/assets/favicon.ico"> Noisli</a> | 
+<a href="https://www.v2ray.com/"><img width=15 src="https://www.v2ray.com/resources/favicon-152.png"> V2ray</a> | 
 
 
 #### News

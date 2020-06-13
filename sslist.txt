@@ -51,6 +51,7 @@
 !/==Noisli
 ||noisli.com
 ||mxpnl.com
+||v2ray.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
