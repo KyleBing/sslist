@@ -52,6 +52,7 @@
 ||noisli.com
 ||mxpnl.com
 ||v2ray.com
+||justmysocks2.net
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
