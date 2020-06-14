@@ -14,15 +14,21 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ```
 
 
-
 ## 目录
 
 ```bash
-├── LICENSE             # 许可证
-├── OmegaOptions.bak    # SwitchyOmega插件 恢复备份文档
-├── README.md           # 说明文档
-└── sslist.txt          # 规则主文件
+├── LICENSE                 # 许可证
+├── OmegaOptions.bak        # SwitchyOmega插件 恢复备份文档
+├── README.md               # 说明文档
+├── sslist.shadowrocket.txt # 用于 iOS 端的 shadowrocket 的配置文件
+└── sslist.txt              # 规则主文件
 ```
+
+
+## ShadowRocket
+
+ShadowRocket 用的线上导入地址：
+[https://github.com/KyleBing/sslist/raw/master/sslist.shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist.shadowrocket.txt)
 
 
 ## 速度优化
@@ -44,7 +50,6 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ---
 
 # 使用
-
 
 ### 在 SwitchyOmega插件中直接恢复
 
