@@ -158,9 +158,9 @@
 ||twitter.com
 ||twimg.com
 ||t.co
-!! ad ##
+!! ad
 ||ads-twitter.com
-!relate
+!! relate
 ||doubleclick.net
 !/== SPOTIFY
 ||spotify.com

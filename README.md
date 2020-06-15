@@ -10,7 +10,7 @@
 ## 主文件地址
 
 ```bash
-https://github.com/KyleBing/sslist/raw/master/sslist.txt
+https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 ```
 
 
@@ -20,15 +20,22 @@ https://github.com/KyleBing/sslist/raw/master/sslist.txt
 ├── LICENSE                 # 许可证
 ├── OmegaOptions.bak        # SwitchyOmega插件 恢复备份文档
 ├── README.md               # 说明文档
-├── sslist.shadowrocket.txt # 用于 iOS 端的 shadowrocket 的配置文件
-└── sslist.txt              # 规则主文件
+├── sslist-plain.txt        # 规则主文件
+├── sslist-shadowrocket.txt # 用于 iOS 端的 shadowrocket 的配置文件
+└── sslist-v2ray-pac.js     # 适用于 v2ray 电脑客户端的配置文件
+
 ```
 
 
-## ShadowRocket
+## 直用地址
 
-ShadowRocket 用的线上导入地址：
-[https://github.com/KyleBing/sslist/raw/master/sslist.shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist.shadowrocket.txt)
+ShadowRocket 线上引用地址
+
+[https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
+
+V2ray 线上引用地址
+
+[https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js](https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js)
 
 
 ## 速度优化
