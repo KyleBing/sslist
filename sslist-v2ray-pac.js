@@ -78,6 +78,14 @@ var domains = [
   'wordpress.org',
   'pinimg.com',
 
+// ========== FINANCE ==========
+  'huobi.com',
+  'huobiasia.vip',
+  'woodpeckerlog.com',
+  'zopim.com',
+  'hbfile.net',
+  'zendesk.com',
+
 // ========== DEVELOPER ==========
   'ruanyifeng.*',
   'xdebug.org',

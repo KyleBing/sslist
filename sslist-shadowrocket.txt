@@ -85,6 +85,14 @@ DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,wordpress.org,PROXY
 DOMAIN-SUFFIX,pinimg.com,PROXY
 
+# ========== FINANCE ==========
+DOMAIN-SUFFIX, huobi.com, PROXY
+DOMAIN-SUFFIX, huobiasia.vip, PROXY
+DOMAIN-SUFFIX, woodpeckerlog.com, PROXY
+DOMAIN-SUFFIX, zopim.com, PROXY
+DOMAIN-SUFFIX, hbfile.net, PROXY
+DOMAIN-SUFFIX, zendesk.com, PROXY
+
 # ========== DEVELOPER ==========
 DOMAIN-SUFFIX,ruanyifeng.*,PROXY
 DOMAIN-SUFFIX,xdebug.org,PROXY

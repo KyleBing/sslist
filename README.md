@@ -139,6 +139,10 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://web.500px.com/"><img width=15 src="https://web.500px.com/favicon.ico"> 500px</a> | 
 
 
+#### Finance
+<a href="http://huobi.com"><img width=15 src="https://www.huobi.com/favicon.ico"> HuoBi</a> | 
+
+
 #### Software
 
 <a href="https://www.inpandora.com/"><img width=15 src="https://www.inpandora.com/wp-content/themes/pdr-pro/images/favicon.ico"> 潘多拉盒子</a> | 
