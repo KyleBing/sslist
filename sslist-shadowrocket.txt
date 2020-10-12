@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,googletagservices.com,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
 #  MAP
 DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-SUFFIX,goo.gl,PROXY
 DOMAIN-SUFFIX,googleusercontent.com,PROXY
 DOMAIN-SUFFIX,googlesyndication.com,PROXY
 #  BLOGGER
@@ -151,6 +152,7 @@ DOMAIN-SUFFIX,discordapp.net,PROXY
 
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY
+DOMAIN-SUFFIX,xvideos-cdn.com,PROXY
 #  PORNHUB
 DOMAIN-SUFFIX,pornhub.com,PROXY
 DOMAIN-SUFFIX,phncdn.com,PROXY
@@ -160,6 +162,7 @@ DOMAIN-SUFFIX,trafficjunky.net,PROXY
 # ========== POPULAR ==========
 #  WIKI
 DOMAIN-SUFFIX,wikipedia.org,PROXY
+DOMAIN-SUFFIX,upload.wikipedia.org,PROXY
 #  FACEBOOK
 DOMAIN-SUFFIX,facebook.net,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
@@ -291,6 +294,13 @@ DOMAIN-SUFFIX,ywxi.net,PROXY
 DOMAIN-SUFFIX,azureedge.net,PROXY
 DOMAIN-SUFFIX,shopify.com,PROXY
 
+
+# ========== GAMES ==========
+#  EA
+DOMAIN-SUFFIX,ea.com,PROXY
+DOMAIN-SUFFIX,soundcloud.com,PROXY
+DOMAIN-SUFFIX,typekit.net,PROXY
+
 # ========== OTHERS ==========
 DOMAIN-SUFFIX,inpandora.com,PROXY
 DOMAIN-SUFFIX,workona.com,PROXY
@@ -302,12 +312,10 @@ DOMAIN-SUFFIX,cloudfront.net,PROXY
 DOMAIN-SUFFIX,ebaystatic.com,PROXY
 DOMAIN-SUFFIX,ebay-us.com,PROXY
 DOMAIN-SUFFIX,online-metrix.net,PROXY
+DOMAIN-SUFFIX,yigeni.com,PROXY
 
-# ========== GAMES ==========
-#  EA
-DOMAIN-SUFFIX,ea.com,PROXY
-DOMAIN-SUFFIX,soundcloud.com,PROXY
-DOMAIN-SUFFIX,typekit.net,PROXY
+
+
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve

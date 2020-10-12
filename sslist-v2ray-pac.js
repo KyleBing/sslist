@@ -19,6 +19,7 @@ var domains = [
   'appspot.com',
 // MAP
   'gstatic.com',
+  'goo.gl',
   'googleusercontent.com',
   'googlesyndication.com',
 // BLOGGER
@@ -144,6 +145,7 @@ var domains = [
 
 // ========== XXOO ==========
   'xvideos.com',
+  'xvideos-cdn.com',
 // PORNHUB
   'pornhub.com',
   'phncdn.com',
@@ -153,6 +155,7 @@ var domains = [
 // ========== POPULAR ==========
 // WIKI
   'wikipedia.org',
+  'upload.wikipedia.org',
 // FACEBOOK
   'facebook.net',
   'facebook.com',
@@ -284,6 +287,12 @@ var domains = [
   'azureedge.net',
   'shopify.com',
 
+// ========== GAMES ==========
+// EA
+  'ea.com',
+  'soundcloud.com',
+  'typekit.net',
+
 // ========== OTHERS ==========
   'inpandora.com',
   'workona.com',
@@ -295,12 +304,9 @@ var domains = [
   'ebaystatic.com',
   'ebay-us.com',
   'online-metrix.net',
+  'yigeni.com',
 
-// ========== GAMES ==========
-// EA
-  'ea.com',
-  'soundcloud.com',
-  'typekit.net',
+
 ];
 
 function FindProxyForURL(url, host) {

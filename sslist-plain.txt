@@ -16,6 +16,7 @@
 ||appspot.com
 !/== MAP
 ||gstatic.com
+||goo.gl
 ||googleusercontent.com
 ||googlesyndication.com
 !/== BLOGGER
@@ -141,6 +142,7 @@
 
 !!========== XXOO ==========
 ||xvideos.com
+||xvideos-cdn.com
 !/== PORNHUB
 ||pornhub.com
 ||phncdn.com
@@ -150,6 +152,7 @@
 !!========== POPULAR ==========
 !/== WIKI
 ||wikipedia.org
+||upload.wikipedia.org
 !/== FACEBOOK
 ||facebook.net
 ||facebook.com
@@ -293,8 +296,16 @@
 ||ebay-us.com
 ||online-metrix.net
 
+||yigeni.com
+
 !!========== GAMES ==========
 !/== EA
 ||ea.com
 ||soundcloud.com
 ||typekit.net
+
+||bat.bing.com
+||gopro.com/on
+
+!!========== OFFICE ==========
+||msocdn.com
