@@ -284,19 +284,16 @@
 ||azureedge.net
 ||shopify.com
 
-!!========== OTHERS ==========
-||inpandora.com
-||workona.com
-||producthunt.com
-||workona.com.*
-||amazon.com
-||cloudfront.net
+
+!!========== SHOPPING ==========
 !/== EBAY
 ||ebaystatic.com
 ||ebay-us.com
 ||online-metrix.net
+||gopro.com/on
 
-||yigeni.com
+||amazon.com
+
 
 !!========== GAMES ==========
 !/== EA
@@ -304,8 +301,17 @@
 ||soundcloud.com
 ||typekit.net
 
+
+!!========== OTHERS ==========
+||inpandora.com
+||workona.com
+||producthunt.com
+||workona.com.*
+||cloudfront.net
 ||bat.bing.com
-||gopro.com/on
+
+!!========== LITTLE ==========
+||yigeni.com
 
 !!========== OFFICE ==========
 ||msocdn.com

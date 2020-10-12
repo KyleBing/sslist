@@ -287,6 +287,11 @@ var domains = [
   'azureedge.net',
   'shopify.com',
 
+// ========== SHOPPING ==========
+// EBAY
+  'ebaystatic.com',
+  'ebay-us.com',
+  'online-metrix.net',
 // ========== GAMES ==========
 // EA
   'ea.com',
@@ -300,10 +305,9 @@ var domains = [
   'workona.com.*',
   'amazon.com',
   'cloudfront.net',
-// EBAY
-  'ebaystatic.com',
-  'ebay-us.com',
-  'online-metrix.net',
+
+
+// ========== LITTLE ==========
   'yigeni.com',
 
 

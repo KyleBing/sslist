@@ -301,6 +301,12 @@ DOMAIN-SUFFIX,ea.com,PROXY
 DOMAIN-SUFFIX,soundcloud.com,PROXY
 DOMAIN-SUFFIX,typekit.net,PROXY
 
+# ========== SHOPPING ==========
+#  EBAY
+DOMAIN-SUFFIX,ebaystatic.com,PROXY
+DOMAIN-SUFFIX,ebay-us.com,PROXY
+DOMAIN-SUFFIX,online-metrix.net,PROXY
+
 # ========== OTHERS ==========
 DOMAIN-SUFFIX,inpandora.com,PROXY
 DOMAIN-SUFFIX,workona.com,PROXY
@@ -308,13 +314,9 @@ DOMAIN-SUFFIX,producthunt.com,PROXY
 DOMAIN-SUFFIX,workona.com.*,PROXY
 DOMAIN-SUFFIX,amazon.com,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
-#  EBAY
-DOMAIN-SUFFIX,ebaystatic.com,PROXY
-DOMAIN-SUFFIX,ebay-us.com,PROXY
-DOMAIN-SUFFIX,online-metrix.net,PROXY
+
+# ========== LITTLE ==========
 DOMAIN-SUFFIX,yigeni.com,PROXY
-
-
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
