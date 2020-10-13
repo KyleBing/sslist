@@ -99,6 +99,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://vuejs.org/"><img width=15 src="https://vuejs.org/images/icons/favicon-32x32.png"> Vuejs</a> | 
 <a href="https://jsfiddle.net"><img width=15 src="https://jsfiddle.net/img/favicon.png"> JSfiddle</a> | 
 <a href="https://discordapp.com"><img width=15 src="https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"> Discord</a> | 
+<a href="https://gitter.im/rime"><img width=15 src="https://cdn03.gitter.im/_s/ae1989d0b/images/favicon-read.ico"> Gitter</a> | 
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 
