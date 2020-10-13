@@ -33,11 +33,9 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 
 ShadowRocket 线上引用地址
 
-[https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
+> GeeGit: 国内使用这个地址 [https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
-V2ray 线上引用地址
-
-[https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js](https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js)
+> GitHub: [https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
 
 ## 速度优化
