@@ -33,7 +33,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 
 ShadowRocket 线上引用地址
 
-> GeeGit: 国内使用这个地址 [https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
+> Gitee: 国内使用这个地址 [https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
 > GitHub: [https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
