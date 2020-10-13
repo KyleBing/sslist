@@ -124,8 +124,8 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Forums
 
 <a href="https://forums.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
-<a href="https://wordpress.com/"> Wordpress.com</a> | 
-<a href="https://wordpress.org/"> Wordpress.org</a> | 
+<a href="https://wordpress.com/"><img width=15 src="https://s1.wp.com/i/favicon.ico?v=1447321881"> Wordpress.com</a> | 
+<a href="https://wordpress.org/"><img width=15 src="https://s1.wp.com/i/favicon.ico?v=1447321881"> Wordpress.org</a> | 
 
 
 #### IM
@@ -150,7 +150,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.inpandora.com/"><img width=15 src="https://www.inpandora.com/wp-content/themes/pdr-pro/images/favicon.ico"> 潘多拉盒子</a> | 
 <a href="https://www.duetdisplay.com/"><img width=15 src="https://global-uploads.webflow.com/5d4db1235c898024a9c88df7/5d547f4dd9647b3646865167_favico.png"> Duet</a> | 
 <a href="https://rime.im/"><img width=15 src="https://rime.im/favicon.png"> Rime输入法</a> | 
-<a href="https://workona.com/"><img width=15 src="https://workona.com/assets/meta/favicon.ico"> Workona</a> | 
+<a href="https://workona.com/"><img width=15 src="https://workona.com/icons/icon-32.png"> Workona</a> | 
 <a href="https://www.termius.com/"><img width=15 src="https://uploads-ssl.webflow.com/5c7036349b5477bf13f828cf/5c7036349b547797daf829f8_termius-favicon.png"> Termius</a> | 
 <a href="https://mindnode.com/"><img width=15 src="https://mindnode.com/static/favicons/favicon-32x32.png"> MindNode</a> | 
 
@@ -158,7 +158,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Utility
 
 <a href="https://www.ifixit.com/"><img width=15 src="https://d1ulmmr4d4i8j4.cloudfront.net/static/icons/ifixit/favicon-32x32.png"> iFixit</a> | 
-<a href="https://www.noisli.com/"><img width=15 src="https://www.noisli.com/assets/favicon.ico"> Noisli</a> | 
+<a href="https://www.noisli.com/"><img width=15 src="https://about.noisli.com/assets/icons/favicon-32x32.ico"> Noisli</a> | 
 <a href="https://www.v2ray.com/"><img width=15 src="https://www.v2ray.com/resources/favicon-152.png"> V2ray</a> | 
 <a href="https://justmysocks2.net/"><img width=15 src=""> JustMySocks</a> | 
 
