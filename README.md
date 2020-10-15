@@ -87,6 +87,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Develop
 
 <a href="http://github.com"><img width=15 src="https://github.githubassets.com/favicon.ico"> GitHub</a> | 
+<a href="http://npmjs.com"><img width=15 src="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png"> NPM</a> | 
 <a href="https://developer.mozilla.org"><img width=15 src="https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png"> MDN</a> | 
 <a href="https://stackoverflow.com"><img width=15 src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"> StackOverflow</a> | 
 <a href="http://disqus.com"><img width=15 src="https://c.disquscdn.com/next/current/marketing/assets/img/brand/favicon-32x32.png"> Disqus</a> | 

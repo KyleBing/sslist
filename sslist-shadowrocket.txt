@@ -150,6 +150,9 @@ DOMAIN-SUFFIX,jetbrains.com,PROXY
 DOMAIN-SUFFIX,discordapp.com,PROXY
 DOMAIN-SUFFIX,discordapp.net,PROXY
 
+#  DISCORD
+DOMAIN-SUFFIX,npmjs.com,PROXY
+
 
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY

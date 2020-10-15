@@ -2,7 +2,7 @@
 ||google.com
 ||about.google
 ||googletagservices
-||stats.g.doubleclick.net
+||doubleclick.net
 ||google.co.jp
 ||youtube.com
 ||youtu.be
@@ -138,6 +138,8 @@
 !/== DISCORD
 ||discordapp.com
 ||discordapp.net
+!/== NPMJS
+||npmjs.com
 
 
 !!========== XXOO ==========
@@ -261,6 +263,10 @@
 ||amgdgt.com
 ||cloudfront.net
 ||sharethis.com
+||adsafeprotected.com
+||researchnow.com
+||r.nexac.com
+||mathtag.com
 !/== ABC NEWS
 ||abcnews.go.com
 ||abcnews.com
