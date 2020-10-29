@@ -98,7 +98,9 @@
 ||gnu.org
 ||fontawesome.com
 !/== GITHUB
+||nr-data.net
 ||github.com
+||github.blog
 ||githubassets.com
 ||githubusercontent.com
 !/== STACKFLOW
@@ -140,6 +142,8 @@
 ||discordapp.net
 !/== NPMJS
 ||npmjs.com
+!/== PYTHON
+||python.org
 
 
 !!========== XXOO ==========

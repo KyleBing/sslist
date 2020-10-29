@@ -109,7 +109,9 @@ DOMAIN-SUFFIX,apachefriends.com,PROXY
 DOMAIN-SUFFIX,gnu.org,PROXY
 DOMAIN-SUFFIX,fontawesome.com,PROXY
 #  GITHUB
+DOMAIN-SUFFIX,nr-data.net,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 #  STACKFLOW
@@ -149,9 +151,10 @@ DOMAIN-SUFFIX,jetbrains.com,PROXY
 #  DISCORD
 DOMAIN-SUFFIX,discordapp.com,PROXY
 DOMAIN-SUFFIX,discordapp.net,PROXY
-
-#  DISCORD
+#  NPMJS
 DOMAIN-SUFFIX,npmjs.com,PROXY
+#  PYTHON
+DOMAIN-SUFFIX,python.org,PROXY
 
 
 # ========== XXOO ==========
