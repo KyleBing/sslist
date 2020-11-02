@@ -89,6 +89,7 @@ var domains = [
 
 // ========== DEVELOPER ==========
    'ruanyifeng.*',
+   'jquery.com',
    'xdebug.org',
    'vuejs.org',
    'yapi.*',
@@ -311,6 +312,7 @@ var domains = [
    'workona.com.*',
    'amazon.com',
    'cloudfront.net',
+   'geekbench.com',
 
 
 // ========== LITTLE ==========

@@ -96,6 +96,7 @@ DOMAIN-SUFFIX, hbfile.net, PROXY
 DOMAIN-SUFFIX, zendesk.com, PROXY
 
 # ========== DEVELOPER ==========
+DOMAIN-SUFFIX,jquery.com,PROXY
 DOMAIN-SUFFIX,ruanyifeng.*,PROXY
 DOMAIN-SUFFIX,xdebug.org,PROXY
 DOMAIN-SUFFIX,vuejs.org,PROXY
@@ -321,6 +322,7 @@ DOMAIN-SUFFIX,producthunt.com,PROXY
 DOMAIN-SUFFIX,workona.com.*,PROXY
 DOMAIN-SUFFIX,amazon.com,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
+DOMAIN-SUFFIX,geekbench.com,PROXY
 
 # ========== LITTLE ==========
 DOMAIN-SUFFIX,yigeni.com,PROXY
