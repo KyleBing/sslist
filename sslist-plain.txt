@@ -287,6 +287,9 @@
 ||tbs.com
 ||squarespace.com
 ||typekit.net
+!/== FOXNEWS
+||cloudflare.com
+||taplytics.com
 
 !/== TEAM COCO
 ||teamcoco.com

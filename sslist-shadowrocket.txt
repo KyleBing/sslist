@@ -302,6 +302,10 @@ DOMAIN-SUFFIX,ywxi.net,PROXY
 DOMAIN-SUFFIX,azureedge.net,PROXY
 DOMAIN-SUFFIX,shopify.com,PROXY
 
+#  FOXNEWS
+DOMAIN-SUFFIX,cloudflare.com,PROXY
+DOMAIN-SUFFIX,taplytics.com,PROXY
+
 
 # ========== GAMES ==========
 #  EA

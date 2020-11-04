@@ -175,6 +175,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.tbs.com/"><img width=15 src="https://static1.squarespace.com/static/5aeb5b62620b85880e854fd0/t/5afdd6f6562fa791e8dd5b9c/favicon.ico"> TBS</a> | 
 <a href="https://www.npr.org/"><img width=15 src="https://media.npr.org/templates/favicon/favicon-32x32.png"> NPR</a> | 
 <a href="https://www.teamcoco.com/"><img width=15 src="https://static.teamcococdn.com/www/3/favicon.ico"> Team COCO</a> | 
+<a href="https://www.foxnews.com/"><img width=15 src="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png"> Fox News</a> | 
 
 
 #### Others

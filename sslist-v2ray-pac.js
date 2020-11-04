@@ -294,6 +294,10 @@ var domains = [
    'azureedge.net',
    'shopify.com',
 
+// FOXNEWS
+   'cloudflare.com',
+   'taplytics.com',
+
 // ========== SHOPPING ==========
 // EBAY
    'ebaystatic.com',
