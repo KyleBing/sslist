@@ -322,6 +322,7 @@
 ||soundcloud.com
 ||typekit.net
 ||callofduty.com
+||cookielaw.org
 
 
 !!========== OTHERS ==========

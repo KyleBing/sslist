@@ -6,7 +6,13 @@
 
 本 `list` 主要倾向于优化网络技术方面的信息获取，优化我们猿类的上网体验。
 
-推荐用 V2Ray 进行代理，不推荐 ShadowSocks，我用 ShadowSocks 已经被封 N 个 IP 了，切换到 V2Ray 之后，什么事都没有。
+推荐用 `V2Ray` 进行代理，不推荐 `ShadowSocks`，我用 `ShadowSocks` 已经被封 N 个 IP 了，切换到 `V2Ray` 之后，什么事都没有。
+
+## 科学的上网方式
+
+服务器上布署 `v2ray` 服务
+电脑上使用 `V2rayX` 软件，浏览器中使用 `SwitchyOmega` 插件
+手机端使用 `ShadowRocket` （需要国外账号，淘宝购买 AppStore 代金券充值，购买 app 即可）
 
 
 ## 主文件地址
@@ -31,7 +37,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 
 ## 直用地址
 
-ShadowRocket 线上引用地址
+`ShadowRocket` 线上引用地址
 
 > Gitee: 国内使用这个地址 [https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
