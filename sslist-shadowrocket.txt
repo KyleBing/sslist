@@ -315,6 +315,9 @@ DOMAIN-SUFFIX,taplytics.com,PROXY
 DOMAIN-SUFFIX,ea.com,PROXY
 DOMAIN-SUFFIX,soundcloud.com,PROXY
 DOMAIN-SUFFIX,typekit.net,PROXY
+DOMAIN-SUFFIX,callofduty.com,PROXY
+DOMAIN-SUFFIX,cookielaw.org,PROXY
+DOMAIN-SUFFIX,superhotgame.com,PROXY
 
 # ========== SHOPPING ==========
 #  EBAY
