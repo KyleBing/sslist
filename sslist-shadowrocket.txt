@@ -156,7 +156,10 @@ DOMAIN-SUFFIX,discordapp.net,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 #  PYTHON
 DOMAIN-SUFFIX,python.org,PROXY
-
+#  DOCKER
+DOMAIN-SUFFIX,mouseflow.com,PROXY
+DOMAIN-SUFFIX,polldaddy.com,PROXY
+DOMAIN-SUFFIX,optimizely.com,PROXY
 
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY
@@ -328,9 +331,17 @@ DOMAIN-SUFFIX,amazon.com,PROXY
 DOMAIN-SUFFIX,cloudfront.net,PROXY
 DOMAIN-SUFFIX,geekbench.com,PROXY
 
+# ========== CHAT ==========
+DOMAIN-SUFFIX,omegle.onl,PROXY
+DOMAIN-SUFFIX,tedrighor.top,PROXY
+DOMAIN-SUFFIX,omegle.com,PROXY
+DOMAIN-SUFFIX,kik.com,PROXY
+
 # ========== LITTLE ==========
 DOMAIN-SUFFIX,yigeni.com,PROXY
 
+# ========== APP ==========
+DOMAIN-SUFFIX,iina.io,PROXY
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve

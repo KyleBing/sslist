@@ -100,6 +100,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://jsfiddle.net"><img width=15 src="https://jsfiddle.net/img/favicon.png"> JSfiddle</a> | 
 <a href="https://discordapp.com"><img width=15 src="https://discordapp.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"> Discord</a> | 
 <a href="https://gitter.im/rime"><img width=15 src="https://cdn03.gitter.im/_s/ae1989d0b/images/favicon-read.ico"> Gitter</a> | 
+<a href="https://www.docker.com"><img width=15 src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"> Docker</a> | 
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 
@@ -120,6 +121,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Games
 
 <a href="https://ea.com/"><img width=15 src="https://ea.com/assets/images/favicon.png"> EA</a> | 
+<a href="https://www.callofduty.com"><img width=15 src="https://www.callofduty.com/content/dam/atvi/callofduty/global/favicon/favicon.ico"> CallOfDuty</a> | 
 
 
 #### Forums
