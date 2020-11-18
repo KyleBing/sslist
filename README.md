@@ -8,21 +8,21 @@
 
 推荐用 `V2Ray` 进行代理，不推荐 `ShadowSocks`，我用 `ShadowSocks` 已经被封 N 个 IP 了，切换到 `V2Ray` 之后，什么事都没有。
 
-## 科学的上网方式
+## 一、科学的上网方式
 
-服务器上布署 `v2ray` 服务
-电脑上使用 `V2rayX` 软件，浏览器中使用 `SwitchyOmega` 插件
-手机端使用 `ShadowRocket` （需要国外账号，淘宝购买 AppStore 代金券充值，购买 app 即可）
+- 服务器上布署 `v2ray` 服务
+- 电脑上使用 `V2rayX` 软件，浏览器中使用 `SwitchyOmega` 插件
+- 手机端使用 `ShadowRocket` （需要国外账号，淘宝购买 AppStore 代金券充值，购买 app 即可）
 
 
-## 主文件地址
+## 二、主文件地址
 
 ```bash
 https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 ```
 
 
-## 目录
+## 三、目录
 
 ```bash
 ├── LICENSE                 # 许可证
@@ -35,7 +35,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 ```
 
 
-## 直用地址
+## 四、直用地址
 
 `ShadowRocket` 线上引用地址
 
@@ -44,7 +44,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 > GitHub: [https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
 
-## 速度优化
+## 五、速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
 如果你在使用该 `list` 的时候出现页面加载超过 `5s` 的情况，欢迎 <a href="mailto:kylebing@163.com"> Email 我 </a>
