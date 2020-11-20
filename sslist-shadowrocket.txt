@@ -319,6 +319,11 @@ DOMAIN-SUFFIX,callofduty.com,PROXY
 DOMAIN-SUFFIX,cookielaw.org,PROXY
 DOMAIN-SUFFIX,superhotgame.com,PROXY
 
+# ========== FUN ==========
+DOMAIN-SUFFIX,makemepulse.com,PROXY
+DOMAIN-SUFFIX,prismic.io,PROXY
+DOMAIN-SUFFIX,myfonts.net,PROXY
+
 # ========== SHOPPING ==========
 #  EBAY
 DOMAIN-SUFFIX,ebaystatic.com,PROXY

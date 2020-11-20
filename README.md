@@ -110,6 +110,10 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 
+#### Fun
+
+<a href="https://www.makemepulse.com/"><img width=15 src="https://www.makemepulse.com/images/icons/favicon-32x32.png"> MakeMePulse</a> | 
+
 #### Popular
 
 <a href="https://www.wikipedia.org/"><img width=15 src="https://www.wikipedia.org/static/favicon/wikipedia.ico"> Wikipedia</a> | 
