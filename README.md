@@ -83,6 +83,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Google
 
 <a href="http://google.com"><img width=15 src="https://www.google.com/favicon.ico"> Google</a> |
+<a href="https://fonts.google.com/"><img width=15 src="https://www.gstatic.com/images/branding/product/1x/google_fonts_blue_ios_64dp.png"> Google Fonts</a> |
 <a href="http://youtube.com"><img width=15 src="https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico"> Youtube</a> |
 <a href="http://mail.google.com"><img width=15 src="https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"> Gmail</a> |
 <a href="http://google.com/maps"><img width=15 src="https://www.google.com/images/branding/product/ico/maps_32dp.ico"> Google Map</a> |

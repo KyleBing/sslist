@@ -25,6 +25,8 @@ DOMAIN-SUFFIX,googleapis.com,PROXY
 DOMAIN-SUFFIX,google-analytics.com,PROXY
 DOMAIN-SUFFIX,googletagservices.com,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
+DOMAIN-SUFFIX,gstatic.com,RPOXY
+
 #  MAP
 DOMAIN-SUFFIX,gstatic.com,PROXY
 DOMAIN-SUFFIX,goo.gl,PROXY

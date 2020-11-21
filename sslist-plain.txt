@@ -15,6 +15,7 @@
 ||googletagservices.com
 ||appspot.com
 ||chrome.com
+||gstatic.com
 !/== MAP
 ||gstatic.com
 ||goo.gl
