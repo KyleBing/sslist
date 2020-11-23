@@ -159,6 +159,8 @@
 !/== ANDROID
 ||android.com
 
+!!========== SEARCH ==========
+||duckduckgo.com
 
 !!========== XXOO ==========
 ||xvideos.com

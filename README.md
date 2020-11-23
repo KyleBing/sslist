@@ -113,6 +113,11 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 
+#### Search
+
+<a href="https://duckduckgo.com"><img width=15 src="https://duckduckgo.com/assets/icons/meta/DDG-iOS-icon_60x60.png?v=2"> DuckDuckGo</a> | 
+
+
 #### Fun
 
 <a href="https://www.makemepulse.com/"><img width=15 src="https://www.makemepulse.com/images/icons/favicon-32x32.png"> MakeMePulse</a> | 

@@ -168,6 +168,9 @@ DOMAIN_SUFFIX,imgix.net,PROXY
 #   ANDROID
 DOMAIN_SUFFIX,android.com,PROXY
 
+# ========== SEARCH ==========
+DOMAIN_SUFFIX,duckduckgo.com,PROXY
+
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY
 DOMAIN-SUFFIX,xvideos-cdn.com,PROXY
