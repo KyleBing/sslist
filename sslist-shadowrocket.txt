@@ -165,6 +165,8 @@ DOMAIN-SUFFIX,optimizely.com,PROXY
 #   GOOGLE
 DOMAIN-SUFFIX,web.dev,PROXY
 DOMAIN_SUFFIX,imgix.net,PROXY
+#   ANDROID
+DOMAIN_SUFFIX,android.com,PROXY
 
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY

@@ -156,6 +156,8 @@
 !/== GOOGLE
 ||web.dev
 ||imgix.net
+!/== ANDROID
+||android.com
 
 
 !!========== XXOO ==========
