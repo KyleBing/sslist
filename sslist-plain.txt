@@ -153,6 +153,9 @@
 ||mouseflow.com
 ||polldaddy.com
 ||optimizely.com
+!/== GOOGLE
+||web.dev
+||imgix.net
 
 
 !!========== XXOO ==========

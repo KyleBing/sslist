@@ -162,6 +162,9 @@ DOMAIN-SUFFIX,python.org,PROXY
 DOMAIN-SUFFIX,mouseflow.com,PROXY
 DOMAIN-SUFFIX,polldaddy.com,PROXY
 DOMAIN-SUFFIX,optimizely.com,PROXY
+#   GOOGLE
+DOMAIN-SUFFIX,web.dev,PROXY
+DOMAIN_SUFFIX,imgix.net,PROXY
 
 # ========== XXOO ==========
 DOMAIN-SUFFIX,xvideos.com,PROXY
