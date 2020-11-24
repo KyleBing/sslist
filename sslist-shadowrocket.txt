@@ -237,6 +237,8 @@ DOMAIN-SUFFIX,whatsapp.net,PROXY
 #  TELEGRAM
 DOMAIN-SUFFIX,telegram.org,PROXY
 DOMAIN-SUFFIX,telegram.me,PROXY
+DOMAIN-SUFFIX,t.me,PROXY
+DOMAIN-SUFFIX,telesco.pe,PROXY
 #  Skype
 DOMAIN-SUFFIX,skype.com,PROXY
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com,PROXY

@@ -228,6 +228,8 @@
 !/== TELEGRAM
 ||telegram.org
 ||telegram.me
+||t.me
+||telesco.pe
 !/== Skype
 ||skype.com
 ||browser.pipe.aria.microsoft.com
