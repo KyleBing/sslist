@@ -158,6 +158,11 @@
 ||imgix.net
 !/== ANDROID
 ||android.com
+!/== CSS-TRICKS
+||wp.com
+||cloudflareinsights.com
+||twimg.com
+||codepen.io
 
 !!========== SEARCH ==========
 ||duckduckgo.com
