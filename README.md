@@ -183,6 +183,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.ifixit.com/"><img width=15 src="https://d1ulmmr4d4i8j4.cloudfront.net/static/icons/ifixit/favicon-32x32.png"> iFixit</a> | 
 <a href="https://www.noisli.com/"><img width=15 src="https://about.noisli.com/assets/icons/favicon-32x32.ico"> Noisli</a> | 
 <a href="https://www.v2ray.com/"><img width=15 src="https://www.v2ray.com/resources/favicon-152.png"> V2ray</a> | 
+<a href="https://en.gravatar.com/"><img width=15 src="https://en.gravatar.com/favicon.ico"> Gravatar</a> | 
 <a href="https://justmysocks2.net/"><img width=15 src=""> JustMySocks</a> | 
 
 

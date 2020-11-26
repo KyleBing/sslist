@@ -77,6 +77,7 @@
 ||wordpress.com
 ||wordpress.org
 ||pinimg.com
+||gravatar.com
 
 !!========== FINANCE ==========
 ||huobi.com

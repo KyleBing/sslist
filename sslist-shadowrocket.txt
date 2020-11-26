@@ -87,6 +87,7 @@ DOMAIN-SUFFIX,switchadhub.com,PROXY
 # WordPress
 DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,wordpress.org,PROXY
+DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,pinimg.com,PROXY
 
 # ========== FINANCE ==========
