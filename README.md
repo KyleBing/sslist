@@ -99,6 +99,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://web.dev/"><img width=15 src="https://web.dev/images/favicon-32x32.png"> Web Dev</a> | 
 <a href="https://developer.mozilla.org"><img width=15 src="https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png"> MDN</a> | 
 <a href="https://stackoverflow.com"><img width=15 src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"> StackOverflow</a> | 
+<a href="https://meta.superuser.com/"><img width=15 src="https://cdn.sstatic.net/Sites/superusermeta/Img/favicon.ico?v=b3a2c40bc600"> SuperUser</a> | 
 <a href="https://www.python.org/"><img width=15 src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png"> Python</a> | 
 <a href="http://disqus.com"><img width=15 src="https://c.disquscdn.com/next/current/marketing/assets/img/brand/favicon-32x32.png"> Disqus</a> | 
 <a href="https://www.dropbox.com/"><img width=15 src="https://cfl.dropboxstatic.com/static/images/favicon-vflUeLeeY.ico"> DropBox</a> | 
