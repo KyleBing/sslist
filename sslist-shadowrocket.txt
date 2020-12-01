@@ -369,6 +369,10 @@ DOMAIN-SUFFIX,yigeni.com,PROXY
 # ========== APP ==========
 DOMAIN-SUFFIX,iina.io,PROXY
 
+# ========== INDUSTRY ==========
+DOMAIN-SUFFIX,spacex.com,PROXY
+
+
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
 IP-CIDR,91.108.4.0/22,PROXY,no-resolve
 IP-CIDR,109.239.140.0/24,PROXY,no-resolve

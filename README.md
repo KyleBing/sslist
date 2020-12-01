@@ -202,6 +202,10 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.foxnews.com/"><img width=15 src="https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-60x60.png"> Fox News</a> | 
 
 
+#### Industry
+<a href="https://www.spacex.com"><img width=15 src="https://www.spacex.com/static/images/favicon.ico"> SpaceX</a> | 
+
+
 #### Others
 
 <a href="https://www.geekbench.com/"><img width=15 src="https://www.geekbench.com/img/favicons/ios/apple-touch-icon-120.png"> GeekBench</a> | 
