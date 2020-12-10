@@ -89,6 +89,9 @@ DOMAIN-SUFFIX,wordpress.com,PROXY
 DOMAIN-SUFFIX,wordpress.org,PROXY
 DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,pinimg.com,PROXY
+# Quora
+DOMAIN-SUFFIX,quoracdn.net,PROXY
+DOMAIN-SUFFIX,quora.com,PROXY
 
 # ========== FINANCE ==========
 DOMAIN-SUFFIX, huobi.com, PROXY

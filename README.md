@@ -148,6 +148,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Forums
 
 <a href="https://forums.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
+<a href="https://www.quora.com/"><img width=15 src="https://qsf.fs.quoracdn.net/-4-images.favicon.ico-26-ebf6a9e7f7b4576d.ico"> Quora</a> | 
 <a href="https://wordpress.com/"><img width=15 src="https://s1.wp.com/i/favicon.ico?v=1447321881"> Wordpress.com</a> | 
 <a href="https://wordpress.org/"><img width=15 src="https://s1.wp.com/i/favicon.ico?v=1447321881"> Wordpress.org</a> | 
 
