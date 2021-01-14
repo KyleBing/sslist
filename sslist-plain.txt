@@ -110,6 +110,8 @@
 ||github.blog
 ||githubassets.com
 ||githubusercontent.com
+||github.community
+||discourse-cdn.com
 !/== STACKFLOW
 ||stackoverflow.com
 ||stack.imgur.com

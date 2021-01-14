@@ -121,6 +121,8 @@ DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,github.community,PROXY
+DOMAIN-SUFFIX,discourse-cdn.com,PROXY
 #  STACKFLOW
 DOMAIN-SUFFIX,stackoverflow.com,PROXY
 DOMAIN-SUFFIX,stack.imgur.com,PROXY
