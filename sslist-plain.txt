@@ -169,6 +169,8 @@
 ||cloudflareinsights.com
 ||twimg.com
 ||codepen.io
+!/== GO LANG
+||golang.org
 
 !!========== SEARCH ==========
 ||duckduckgo.com

@@ -178,6 +178,8 @@ DOMAIN_SUFFIX,wp.com,PROXY
 DOMAIN_SUFFIX,cloudflareinsights.com,PROXY
 DOMAIN_SUFFIX,twimg.com,PROXY
 DOMAIN_SUFFIX,codepen.io,PROXY
+#   GO LANG
+DOMAIN_SUFFIX,golang.org,PROXY
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY
