@@ -171,6 +171,8 @@
 ||codepen.io
 !/== GO LANG
 ||golang.org
+!/== FULL CALENDAR
+||fullcalendar.io
 
 !!========== SEARCH ==========
 ||duckduckgo.com

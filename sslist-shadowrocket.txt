@@ -180,6 +180,8 @@ DOMAIN_SUFFIX,twimg.com,PROXY
 DOMAIN_SUFFIX,codepen.io,PROXY
 #   GO LANG
 DOMAIN_SUFFIX,golang.org,PROXY
+#    FULL CALENDAR
+DOMAIN_SUFFIX,fullcalendar.io,PROXY
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY
