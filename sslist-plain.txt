@@ -171,6 +171,7 @@
 ||codepen.io
 !/== GO LANG
 ||golang.org
+||learn.go.dev
 !/== FULL CALENDAR
 ||fullcalendar.io
 
