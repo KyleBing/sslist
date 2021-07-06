@@ -92,7 +92,7 @@
 
 !!========== DEVELOPER ==========
 ||jquery.com
-||ruanyifeng.*
+||ruanyifeng
 ||xdebug.org
 ||vuejs.org
 ||yapi.*
@@ -174,6 +174,8 @@
 ||learn.go.dev
 !/== FULL CALENDAR
 ||fullcalendar.io
+!/== ICON ICON
+||ionic.io
 
 !!========== SEARCH ==========
 ||duckduckgo.com
@@ -337,7 +339,7 @@
 ||ebaystatic.com
 ||ebay-us.com
 ||online-metrix.net
-||gopro.com/on
+||gopro.com
 
 ||amazon.com
 

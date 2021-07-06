@@ -181,8 +181,10 @@ DOMAIN_SUFFIX,codepen.io,PROXY
 #   GO LANG
 DOMAIN_SUFFIX,golang.org,PROXY
 DOMAIN_SUFFIX,learn.go.dev,PROXY
-#    FULL CALENDAR
+#   FULL CALENDAR
 DOMAIN_SUFFIX,fullcalendar.io,PROXY
+#   ICON ICON
+DOMAIN_SUFFIX,ionic.io,PROXY
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY
