@@ -114,6 +114,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.docker.com"><img width=15 src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"> Docker</a> | 
 <a href="https://css-tricks.com/"><img width=15 src="https://css-tricks.com/apple-touch-icon.png"> CSS-Tricks</a> | 
 <a href="https://ionic.io/ionicons"><img width=15 src="https://ionic.io/ionicons/assets/img/meta/favicon-96x96.png"> ION ICON</a> | 
+<a href="https://www.w3schools.com"><img width=15 src="https://www.w3schools.com/favicon.ico"> W3school</a> | 
 <a href="https://bandwagonhost.com"> BandwagonHost</a> | 
 
 

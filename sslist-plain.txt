@@ -104,6 +104,7 @@
 ||apachefriends.com
 ||gnu.org
 ||fontawesome.com
+||w3schools.com
 !/== GITHUB
 ||nr-data.net
 ||github.com
