@@ -105,6 +105,7 @@
 ||gnu.org
 ||fontawesome.com
 ||w3schools.com
+||jslint.com
 !/== GITHUB
 ||nr-data.net
 ||github.com
