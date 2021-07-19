@@ -98,7 +98,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="http://npmjs.com"><img width=15 src="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png"> NPM</a> | 
 <a href="https://www.android.com"><img width=15 src="https://www.android.com/static/images/fav/favicon.ico"> Android</a> | 
 <a href="https://web.dev/"><img width=15 src="https://web.dev/images/favicon-32x32.png"> Web Dev</a> | 
-<a href="https://developer.mozilla.org"><img width=15 src="https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png"> MDN</a> | 
+<a href="https://developer.mozilla.org"><img width=15 src="https://developer.mozilla.org/favicon-48x48.97046865.png"> MDN</a> | 
 <a href="https://stackoverflow.com"><img width=15 src="https://cdn.sstatic.net/Sites/stackoverflow/img/favicon.ico?v=4f32ecc8f43d"> StackOverflow</a> | 
 <a href="https://meta.superuser.com/"><img width=15 src="https://cdn.sstatic.net/Sites/superusermeta/Img/favicon.ico?v=b3a2c40bc600"> SuperUser</a> | 
 <a href="https://www.python.org/"><img width=15 src="https://www.python.org/static/apple-touch-icon-72x72-precomposed.png"> Python</a> | 
