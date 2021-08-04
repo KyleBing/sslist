@@ -179,7 +179,7 @@
 !/== ICON ICON
 ||ionic.io
 !/== reactnative.dev
-!!reactnative.dev
+||reactnative.dev
 
 !!========== SEARCH ==========
 ||duckduckgo.com
