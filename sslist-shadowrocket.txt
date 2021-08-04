@@ -187,6 +187,9 @@ DOMAIN_SUFFIX,learn.go.dev,PROXY
 DOMAIN_SUFFIX,fullcalendar.io,PROXY
 #   ICON ICON
 DOMAIN_SUFFIX,ionic.io,PROXY
+#   REACTNATIVE.DEV
+DOMAIN_SUFFIX,reactnative.dev,PROXY
+
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY
