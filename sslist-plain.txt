@@ -180,6 +180,8 @@
 ||ionic.io
 !/== reactnative.dev
 ||reactnative.dev
+||snack.expo.dev
+||api.amplitude.com
 
 !!========== SEARCH ==========
 ||duckduckgo.com
