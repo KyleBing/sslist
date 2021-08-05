@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,googleadservices.com,PROXY
 # Calendar
 DOMAIN-SUFFIX,calendar.com,PROXY
 DOMAIN-SUFFIX,static.zdassets.com,PROXY
+# CHROMIUM.ORG
+DOMAIN-SUFFIX,chromium.org,PROXY
 
 # ========== SOFT ==========
 DOMAIN-SUFFIX,duetdisplay.com,PROXY
