@@ -178,10 +178,11 @@
 ||fullcalendar.io
 !/== ICON ICON
 ||ionic.io
-!/== reactnative.dev
+!/== REACT NATIVE
 ||reactnative.dev
 ||snack.expo.dev
 ||api.amplitude.com
+||expo.dev
 
 !!========== SEARCH ==========
 ||duckduckgo.com

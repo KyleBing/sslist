@@ -191,6 +191,7 @@ DOMAIN_SUFFIX,ionic.io,PROXY
 DOMAIN_SUFFIX,reactnative.dev,PROXY
 DOMAIN_SUFFIX,snack.expo.dev,PROXY
 DOMAIN_SUFFIX,api.amplitude.com,PROXY
+DOMAIN_SUFFIX,expo.dev,PROXY
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY
