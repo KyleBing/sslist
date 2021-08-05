@@ -30,8 +30,10 @@
 !/==Calendar
 ||calendar.com
 ||static.zdassets.com
-!/==CHROMIUM.ORG
+!/==CHROMIUM
 ||chromium.org
+!/==GOOGLEBLOG
+||googleblog.com
 
 !!========== SOFT ==========
 ||duetdisplay.com
