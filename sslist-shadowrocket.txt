@@ -41,6 +41,10 @@ DOMAIN-SUFFIX,googleadservices.com,PROXY
 # Calendar
 DOMAIN-SUFFIX,calendar.com,PROXY
 DOMAIN-SUFFIX,static.zdassets.com,PROXY
+# CHROMIUM.ORG
+DOMAIN-SUFFIX,chromium.org,PROXY
+# GOOGLEBLOG
+DOMAIN-SUFFIX,googleblog.com,PROXY
 
 # ========== SOFT ==========
 DOMAIN-SUFFIX,duetdisplay.com,PROXY
@@ -187,8 +191,6 @@ DOMAIN_SUFFIX,learn.go.dev,PROXY
 DOMAIN_SUFFIX,fullcalendar.io,PROXY
 #   ICON ICON
 DOMAIN_SUFFIX,ionic.io,PROXY
-#   ELECTRON
-DOMAIN_SUFFIX,electronforge.io,PROXY
 
 # ========== SEARCH ==========
 DOMAIN_SUFFIX,duckduckgo.com,PROXY

@@ -30,6 +30,10 @@
 !/==Calendar
 ||calendar.com
 ||static.zdassets.com
+!/==CHROMIUM
+||chromium.org
+!/==GOOGLEBLOG
+||googleblog.com
 
 !!========== SOFT ==========
 ||duetdisplay.com
@@ -178,8 +182,6 @@
 ||fullcalendar.io
 !/== ICON ICON
 ||ionic.io
-!/== ELECTRON
-||electronforge.io
 
 !!========== SEARCH ==========
 ||duckduckgo.com
