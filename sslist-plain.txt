@@ -346,8 +346,11 @@
 ||ebay-us.com
 ||online-metrix.net
 ||gopro.com
-
 ||amazon.com
+
+!!========== PRODUCT ==========
+!/ == SEGWAY
+||segway.com
 
 
 !!========== GAMES ==========

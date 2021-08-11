@@ -346,6 +346,10 @@ DOMAIN-SUFFIX,cloudflare.com,PROXY
 DOMAIN-SUFFIX,taplytics.com,PROXY
 
 
+# ========== PRODUCT ==========
+#  SEGWAY
+DOMAIN-SUFFIX,segway.com,PROXY
+
 # ========== GAMES ==========
 #  EA
 DOMAIN-SUFFIX,ea.com,PROXY

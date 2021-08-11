@@ -143,6 +143,11 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.reddit.com/"><img width=15 src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png"> Reddit</a> | 
 
 
+#### Product
+
+<a href="https://www.segway.com/"><img width=15 src="https://static4.segway.com/wp-content/uploads/2019/07/cropped-segway-fav-icon-32x32.png"> Segway</a> |
+
+
 #### Games
 
 <a href="https://ea.com/"><img width=15 src="https://ea.com/assets/images/favicon.png"> EA</a> | 
