@@ -93,6 +93,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 #### Develop
 
+<a href="http://gradle.org"><img width=15 src=""> Gradle</a> | 
 <a href="http://github.com"><img width=15 src="https://github.githubassets.com/favicon.ico"> GitHub</a> | 
 <a href="http://golang.org"><img width=15 src="https://golang.org"> Go</a> | 
 <a href="http://npmjs.com"><img width=15 src="https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png"> NPM</a> | 

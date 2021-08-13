@@ -106,6 +106,7 @@ DOMAIN-SUFFIX, hbfile.net, PROXY
 DOMAIN-SUFFIX, zendesk.com, PROXY
 
 # ========== DEVELOPER ==========
+DOMAIN-SUFFIX,gradle.org,PROXY
 DOMAIN-SUFFIX,jquery.com,PROXY
 DOMAIN-SUFFIX,ruanyifeng.*,PROXY
 DOMAIN-SUFFIX,xdebug.org,PROXY

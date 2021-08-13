@@ -95,6 +95,7 @@
 ||zendesk.com
 
 !!========== DEVELOPER ==========
+||gradle.org
 ||jquery.com
 ||ruanyifeng
 ||xdebug.org
@@ -182,7 +183,6 @@
 ||fullcalendar.io
 !/== ICON ICON
 ||ionic.io
-
 !!========== SEARCH ==========
 ||duckduckgo.com
 
