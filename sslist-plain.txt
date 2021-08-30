@@ -111,6 +111,7 @@
 ||fontawesome.com
 ||w3schools.com
 ||jslint.com
+||electronjs.org
 !/== GITHUB
 ||nr-data.net
 ||github.com
