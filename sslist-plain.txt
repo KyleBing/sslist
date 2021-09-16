@@ -46,6 +46,7 @@
 !/==MindNode
 ||mindnode.com
 ||analytics.ideasoncanvas.com
+||picpick.app
 
 !!========== APPLE ==========
 ||itunes.apple.com

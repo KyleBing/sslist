@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,firebaseio.com,PROXY
 # MindNode
 DOMAIN-SUFFIX,mindnode.com,PROXY
 DOMAIN-SUFFIX,analytics.ideasoncanvas.com,PROXY
+DOMAIN-SUFFIX,picpick.app,PROXY
 
 # ========== APPLE ==========
 DOMAIN-SUFFIX,itunes.apple.com,PROXY

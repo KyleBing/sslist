@@ -41,7 +41,7 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 
 > Gitee: 国内使用这个地址 [https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://gitee.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
 
-> GitHub: [https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
+> GitHub: [https://raw.githubusercontent.com/KyleBing/sslist/master/sslist-plain.txt](https://raw.githubusercontent.com/KyleBing/sslist/master/sslist-plain.txt)
 
 
 ## 五、速度优化
@@ -190,6 +190,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://workona.com/"><img width=15 src="https://workona.com/icons/icon-32.png"> Workona</a> | 
 <a href="https://www.termius.com/"><img width=15 src="https://uploads-ssl.webflow.com/5c7036349b5477bf13f828cf/5c7036349b547797daf829f8_termius-favicon.png"> Termius</a> | 
 <a href="https://mindnode.com/"><img width=15 src="https://mindnode.com/static/favicons/favicon-32x32.png"> MindNode</a> | 
+<a href="https://picpick.app"><img width=15 src="https://picpick.app/icons-32ef3f284ce5058bd11263e9796a5606/favicon-32x32.png"> PicPick</a> | 
 
 
 #### Utility
@@ -216,6 +217,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 
 #### Industry
+
 <a href="https://www.spacex.com"><img width=15 src="https://www.spacex.com/static/images/favicon.ico"> SpaceX</a> | 
 
 
