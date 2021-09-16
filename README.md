@@ -93,6 +93,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 #### Develop
 
+<a href="https://www.docker.com"><img width=15 src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png"> Doker</a> | 
 <a href="http://gradle.org"><img width=15 src=""> Gradle</a> | 
 <a href="https://www.electronjs.org/"><img width=15 src="https://www.electronjs.org/assets/img/favicon.ico"> Electron</a> | 
 <a href="http://github.com"><img width=15 src="https://github.githubassets.com/favicon.ico"> GitHub</a> | 
@@ -191,6 +192,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 <a href="https://www.termius.com/"><img width=15 src="https://uploads-ssl.webflow.com/5c7036349b5477bf13f828cf/5c7036349b547797daf829f8_termius-favicon.png"> Termius</a> | 
 <a href="https://mindnode.com/"><img width=15 src="https://mindnode.com/static/favicons/favicon-32x32.png"> MindNode</a> | 
 <a href="https://picpick.app"><img width=15 src="https://picpick.app/icons-32ef3f284ce5058bd11263e9796a5606/favicon-32x32.png"> PicPick</a> | 
+<a href="https://discord.com/"><img width=15 src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico"> PicPick</a> | 
 
 
 #### Utility

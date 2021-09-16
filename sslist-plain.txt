@@ -47,6 +47,7 @@
 ||mindnode.com
 ||analytics.ideasoncanvas.com
 ||picpick.app
+||discord.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
