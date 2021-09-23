@@ -212,6 +212,7 @@ DOMAIN-SUFFIX,trafficjunky.net,PROXY
 #  WIKI
 DOMAIN-SUFFIX,wikipedia.org,PROXY
 DOMAIN-SUFFIX,upload.wikipedia.org,PROXY
+DOMAIN-SUFFIX,wikimedia.org,PROXY
 #  FACEBOOK
 DOMAIN-SUFFIX,facebook.net,PROXY
 DOMAIN-SUFFIX,facebook.com,PROXY
