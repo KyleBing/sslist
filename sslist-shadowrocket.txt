@@ -107,6 +107,9 @@ DOMAIN-SUFFIX, zopim.com, PROXY
 DOMAIN-SUFFIX, hbfile.net, PROXY
 DOMAIN-SUFFIX, zendesk.com, PROXY
 
+# ========== 3D Engine ==========
+DOMAIN-SUFFIX,threejs.org,PROXY
+
 # ========== DEVELOPER ==========
 DOMAIN-SUFFIX,gradle.org,PROXY
 DOMAIN-SUFFIX,jquery.com,PROXY
