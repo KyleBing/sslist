@@ -150,6 +150,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Product
 
 <a href="https://www.segway.com/"><img width=15 src="https://static4.segway.com/wp-content/uploads/2019/07/cropped-segway-fav-icon-32x32.png"> Segway</a> |
+<a href="https://www.divoom.com"><img width=15 src="https://www.divoom.com/cdn.shopify.com/s/files/1/0082/4105/3814/files/2_8f148d44-9b4f-4908-b879-dfcaafa2722a_96x96.jpg?v=1600769981"> Divoom 点音</a> |
 
 
 #### Games

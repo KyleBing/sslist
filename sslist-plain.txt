@@ -1,6 +1,7 @@
 !!========== GOOGLE ==========
 ||google.com
 ||about.google
+||googletagmanager.com
 ||googletagservices
 ||doubleclick.net
 ||google.co.jp
@@ -48,6 +49,11 @@
 ||analytics.ideasoncanvas.com
 ||picpick.app
 ||discord.com
+!/==Divoom
+||divoom.com
+||gstatic.com
+!/==Tiktok
+||tiktok.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
