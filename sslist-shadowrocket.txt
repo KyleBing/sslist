@@ -59,6 +59,12 @@ DOMAIN-SUFFIX,mindnode.com,PROXY
 DOMAIN-SUFFIX,analytics.ideasoncanvas.com,PROXY
 DOMAIN-SUFFIX,picpick.app,PROXY
 DOMAIN-SUFFIX,discord.com,PROXY
+# Divoom
+DOMAIN-SUFFIX,divoom.com,PROXY
+DOMAIN-SUFFIX,gstatic.com,PROXY
+DOMAIN-SUFFIX,chatra.io,PROXY
+# Tiktok
+DOMAIN-SUFFIX,tiktok.com,PROXY
 
 # ========== APPLE ==========
 DOMAIN-SUFFIX,itunes.apple.com,PROXY

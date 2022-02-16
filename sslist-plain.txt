@@ -52,6 +52,7 @@
 !/==Divoom
 ||divoom.com
 ||gstatic.com
+||chatra.io
 !/==Tiktok
 ||tiktok.com
 
