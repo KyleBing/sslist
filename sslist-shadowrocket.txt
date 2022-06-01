@@ -117,6 +117,8 @@ DOMAIN-SUFFIX, zendesk.com, PROXY
 DOMAIN-SUFFIX,threejs.org,PROXY
 
 # ========== DEVELOPER ==========
+DOMAIN-SUFFIX,unlock-music.dev,PROXY
+DOMAIN-SUFFIX,workers.dev,PROXY
 DOMAIN-SUFFIX,expressjs.com,PROXY
 DOMAIN-SUFFIX,pugjs.org,PROXY
 DOMAIN-SUFFIX,gradle.org,PROXY
@@ -409,6 +411,13 @@ DOMAIN-SUFFIX,iina.io,PROXY
 
 # ========== INDUSTRY ==========
 DOMAIN-SUFFIX,spacex.com,PROXY
+
+
+# ========== MOTOR ==========
+DOMAIN-SUFFIX,iomttraces.com,PROXY
+DOMAIN-SUFFIX,jsdelivr.net,PROXY
+DOMAIN-SUFFIX,typekit.net,PROXY
+
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
