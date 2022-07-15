@@ -108,6 +108,9 @@
 ||threejs.org
 
 !!========== DEVELOPER ==========
+||videojs.com
+||ignimgs.com
+||mux.com
 ||unlock-music.dev
 ||workers.dev
 ||expressjs.com

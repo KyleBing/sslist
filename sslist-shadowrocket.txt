@@ -117,6 +117,9 @@ DOMAIN-SUFFIX, zendesk.com, PROXY
 DOMAIN-SUFFIX,threejs.org,PROXY
 
 # ========== DEVELOPER ==========
+DOMAIN-SUFFIX,videojs.com,PROXY
+DOMAIN-SUFFIX,ignimgs.com,PROXY
+DOMAIN-SUFFIX,mux.com,PROXY
 DOMAIN-SUFFIX,unlock-music.dev,PROXY
 DOMAIN-SUFFIX,workers.dev,PROXY
 DOMAIN-SUFFIX,expressjs.com,PROXY
