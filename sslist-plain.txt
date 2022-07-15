@@ -111,6 +111,7 @@
 ||videojs.com
 ||ignimgs.com
 ||mux.com
+||zencdn.net
 ||unlock-music.dev
 ||workers.dev
 ||expressjs.com
