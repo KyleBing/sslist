@@ -35,6 +35,9 @@
 ||chromium.org
 !/==GOOGLEBLOG
 ||googleblog.com
+!/==CHROMEOS
+||chromeenterprise.google
+||withgoogle.com
 
 !!========== SOFT ==========
 ||duetdisplay.com
@@ -384,6 +387,9 @@
 ||callofduty.com
 ||cookielaw.org
 ||superhotgame.com
+!/== STEAM
+||steampowered.com
+||steamstatic.com
 
 !!========== FUN ==========
 ||makemepulse.com

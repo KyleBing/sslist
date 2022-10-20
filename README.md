@@ -159,6 +159,7 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 #### Games
 
 <a href="https://ea.com/"><img width=15 src="https://ea.com/assets/images/favicon.png"> EA</a> | 
+<a href="https://store.steampowered.com/"><img width=15 src="https://store.steampowered.com/favicon.ico"> Steam</a> | 
 <a href="https://www.callofduty.com"><img width=15 src="https://www.callofduty.com/content/dam/atvi/callofduty/global/favicon/favicon.ico"> CallOfDuty</a> | 
 <a href="https://superhotgame.com"><img width=15 src="https://superhotgame.com/wp-content/uploads/2016/11/key-art.jpg"> SuperHot</a> | 
 
