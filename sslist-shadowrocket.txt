@@ -80,11 +80,6 @@ DOMAIN-SUFFIX,mxpnl.com,PROXY
 DOMAIN-SUFFIX,v2ray.com,PROXY
 DOMAIN-SUFFIX,justmysocks2.net,PROXY
 
-# ========== HOSTSERVER ==========
-DOMAIN-SUFFIX,bandwagonhost.com,PROXY
-DOMAIN-SUFFIX,comodo.com,PROXY
-DOMAIN-SUFFIX,statuscake.com,PROXY
-
 # ========== FORUMS ==========
 # MacRumors
 DOMAIN-SUFFIX,macrumors.com,PROXY
@@ -424,6 +419,12 @@ DOMAIN-SUFFIX,spacex.com,PROXY
 DOMAIN-SUFFIX,iomttraces.com,PROXY
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,typekit.net,PROXY
+
+# ========== HOSTSERVER ==========
+DOMAIN-SUFFIX,justmysocks.net,PROXY
+DOMAIN-SUFFIX,bandwagonhost.com,PROXY
+DOMAIN-SUFFIX,comodo.com,PROXY
+DOMAIN-SUFFIX,statuscake.com,PROXY
 
 
 

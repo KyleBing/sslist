@@ -73,11 +73,6 @@
 ||v2ray.com
 ||justmysocks2.net
 
-!!========== HOSTSERVER ==========
-||bandwagonhost.com
-||comodo.com
-||statuscake.com
-
 !!========== FORUMS ==========
 !/==MacRumors
 ||macrumors.com
@@ -428,3 +423,9 @@
 ||iomttraces.com
 ||jsdelivr.net
 ||typekit.net
+
+!!========== GFW ==========
+||justmysocks.net
+||bandwagonhost.com
+||comodo.com
+||statuscake.com
