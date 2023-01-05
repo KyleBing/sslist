@@ -74,6 +74,8 @@
 ||justmysocks2.net
 
 !!========== FORUMS ==========
+!/==v2ex
+||v2ex.com
 !/==MacRumors
 ||macrumors.com
 ||sharethrough.com
