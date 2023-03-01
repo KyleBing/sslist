@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,github.community,PROXY
+DOMAIN-SUFFIX,vercel.app,PROXY
 DOMAIN-SUFFIX,discourse-cdn.com,PROXY
 #  STACKFLOW
 DOMAIN-SUFFIX,stackoverflow.com,PROXY

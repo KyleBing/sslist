@@ -140,6 +140,7 @@
 ||githubassets.com
 ||githubusercontent.com
 ||github.community
+||vercel.app
 ||discourse-cdn.com
 !/== STACKFLOW
 ||stackoverflow.com
