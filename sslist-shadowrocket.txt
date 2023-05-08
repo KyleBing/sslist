@@ -421,11 +421,12 @@ DOMAIN-SUFFIX,iomttraces.com,PROXY
 DOMAIN-SUFFIX,jsdelivr.net,PROXY
 DOMAIN-SUFFIX,typekit.net,PROXY
 
-# ========== HOSTSERVER ==========
+# ========== GFW ==========
 DOMAIN-SUFFIX,justmysocks.net,PROXY
 DOMAIN-SUFFIX,bandwagonhost.com,PROXY
 DOMAIN-SUFFIX,comodo.com,PROXY
 DOMAIN-SUFFIX,statuscake.com,PROXY
+DOMAIN-SUFFIX,58ppyun.com,PROXY
 
 
 
