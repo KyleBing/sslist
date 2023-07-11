@@ -428,6 +428,9 @@ DOMAIN-SUFFIX,comodo.com,PROXY
 DOMAIN-SUFFIX,statuscake.com,PROXY
 DOMAIN-SUFFIX,58ppyun.com,PROXY
 
+# ========== GFW ==========
+DOMAIN-SUFFIX,imgur.com,PROXY
+
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
