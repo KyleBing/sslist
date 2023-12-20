@@ -431,6 +431,8 @@ DOMAIN-SUFFIX,58ppyun.com,PROXY
 # ========== GFW ==========
 DOMAIN-SUFFIX,imgur.com,PROXY
 
+# ========== FlipperZero ==========
+DOMAIN-SUFFIX,flipperzero.one,PROXY
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve
