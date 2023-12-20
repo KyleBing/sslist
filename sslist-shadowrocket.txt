@@ -433,6 +433,7 @@ DOMAIN-SUFFIX,imgur.com,PROXY
 
 # ========== FlipperZero ==========
 DOMAIN-SUFFIX,flipperzero.one,PROXY
+DOMAIN-SUFFIX,unpkg.com,PROXY
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve

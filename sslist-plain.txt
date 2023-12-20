@@ -439,3 +439,4 @@
 
 !!========== FlipperZero ==========
 ||flipperzero.one
+||unpkg.com
