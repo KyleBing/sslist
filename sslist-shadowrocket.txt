@@ -435,6 +435,9 @@ DOMAIN-SUFFIX,imgur.com,PROXY
 DOMAIN-SUFFIX,flipperzero.one,PROXY
 DOMAIN-SUFFIX,unpkg.com,PROXY
 DOMAIN-SUFFIX,flipper.net,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,archbee.com,PROXY
+DOMAIN-SUFFIX,amazonaws.com,PROXY
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve

@@ -441,3 +441,6 @@
 ||flipperzero.one
 ||unpkg.com
 ||flipper.net
+||discord.gg
+||archbee.com
+||amazonaws.com
