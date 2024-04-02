@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,npmjs.com,PROXY
 #  PYTHON
 DOMAIN-SUFFIX,python.org,PROXY
 #  DOCKER
+DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,mouseflow.com,PROXY
 DOMAIN-SUFFIX,polldaddy.com,PROXY
 DOMAIN-SUFFIX,optimizely.com,PROXY
@@ -438,6 +439,9 @@ DOMAIN-SUFFIX,flipper.net,PROXY
 DOMAIN-SUFFIX,discord.gg,PROXY
 DOMAIN-SUFFIX,archbee.com,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
+
+
+DOMAIN-SUFFIX,tindie.com,PROXY
 
 
 IP-CIDR,91.108.56.0/22,PROXY,no-resolve

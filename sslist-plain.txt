@@ -186,6 +186,7 @@
 !/== KOTLINCN
 ||kotlincn.net
 !/== DOCKER
+||docker.com
 ||mouseflow.com
 ||polldaddy.com
 ||optimizely.com
@@ -444,3 +445,5 @@
 ||discord.gg
 ||archbee.com
 ||amazonaws.com
+
+||tindie.com
