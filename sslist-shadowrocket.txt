@@ -81,6 +81,9 @@ DOMAIN-SUFFIX,v2ray.com,PROXY
 DOMAIN-SUFFIX,justmysocks2.net,PROXY
 
 # ========== FORUMS ==========
+# v2ex
+DOMAIN-SUFFIX,v2ex.com,PROXY
+DOMAIN-SUFFIX,ko-fi.com,PROXY
 # MacRumors
 DOMAIN-SUFFIX,macrumors.com,PROXY
 DOMAIN-SUFFIX,sharethrough.com,PROXY
@@ -431,6 +434,11 @@ DOMAIN-SUFFIX,58ppyun.com,PROXY
 
 # ========== GFW ==========
 DOMAIN-SUFFIX,imgur.com,PROXY
+
+# ========== IMAGES ==========
+DOMAIN-SUFFIX,imgur.com,PROXY
+DOMAIN-SUFFIX,media-lab.ai,PROXY
+
 
 # ========== FlipperZero ==========
 DOMAIN-SUFFIX,flipperzero.one,PROXY

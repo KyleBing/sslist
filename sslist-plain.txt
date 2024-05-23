@@ -76,6 +76,7 @@
 !!========== FORUMS ==========
 !/==v2ex
 ||v2ex.com
+||ko-fi.com
 !/==MacRumors
 ||macrumors.com
 ||sharethrough.com
@@ -437,6 +438,7 @@
 
 !!========== IMAGES ==========
 ||imgur.com
+||media-lab.ai
 
 !!========== FlipperZero ==========
 ||flipperzero.one
