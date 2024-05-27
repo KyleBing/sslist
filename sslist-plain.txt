@@ -258,8 +258,6 @@
 ||fastly-insights.com
 !/==Grammly
 ||grammarly.com
-||reddit.com
-||redditstatic.com
 ||grammarly.io
 ||quora.com
 !/== Netflix
@@ -268,6 +266,9 @@
 !/==REDDIT
 ||redd.it
 ||redditmedia.com
+||redditstatic.com
+||redditspace.com
+||reddit.com
 ||redditstatic.com
 
 

@@ -263,8 +263,6 @@ DOMAIN-SUFFIX,myvisualiq.net,PROXY
 DOMAIN-SUFFIX,fastly-insights.com,PROXY
 # Grammly
 DOMAIN-SUFFIX,grammarly.com,PROXY
-DOMAIN-SUFFIX,reddit.com,PROXY
-DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,grammarly.io,PROXY
 DOMAIN-SUFFIX,quora.com,PROXY
 #  Netflix
@@ -273,6 +271,8 @@ DOMAIN-SUFFIX,nflxext.com,PROXY
 # REDDIT
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,redditmedia.com,PROXY
+DOMAIN-SUFFIX,reddit.com,PROXY
+DOMAIN-SUFFIX,reddit.com,PROXY
 DOMAIN-SUFFIX,redditstatic.com,PROXY
 
 
