@@ -240,6 +240,7 @@
 !/== TWITTER
 ||twitter.com
 ||twimg.com
+||x.com
 ||t.co
 !! ad
 ||ads-twitter.com
@@ -391,6 +392,8 @@
 !/== STEAM
 ||steampowered.com
 ||steamstatic.com
+!/== RETRO GAMES
+||libretro.com
 
 !!========== FUN ==========
 ||makemepulse.com
