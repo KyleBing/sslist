@@ -1,3 +1,6 @@
+!!========== AI ==========
+||chatgpt.com
+
 !!========== GOOGLE ==========
 ||google.com
 ||about.google
@@ -17,15 +20,19 @@
 ||appspot.com
 ||chrome.com
 ||gstatic.com
+
 !/== MAP
 ||gstatic.com
 ||goo.gl
 ||googleusercontent.com
 ||googlesyndication.com
+
 !/== BLOGGER
 ||blogger.com
+
 !/== GMAIL
 ||gmail.com
+
 !/== AD
 ||googleadservices.com
 !/==Calendar

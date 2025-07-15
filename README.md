@@ -80,6 +80,8 @@ https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
 
 ## 已优化速度的网站
 
+### AI
+
 #### Google
 
 <a href="http://google.com"><img width=15 src="https://www.google.com/favicon.ico"> Google</a> |

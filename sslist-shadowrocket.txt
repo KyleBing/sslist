@@ -10,6 +10,10 @@ ipv6 = false
 
 [Rule]
 # ========== GOOGLE ==========
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+
+
+# ========== GOOGLE ==========
 DOMAIN-SUFFIX,google.com,PROXY
 DOMAIN-SUFFIX,about.google,PROXY
 DOMAIN-SUFFIX,googletagservices,PROXY
